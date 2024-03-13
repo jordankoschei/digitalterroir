@@ -21,7 +21,7 @@
 title: Creative Hudson Valley
 email: jordan@connecthv.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jordankoschei.github.io/creativehudsonvalley/" # the base hostname & protocol for your site, e.g. http://example.com
 
 defaults:
   - scope:
