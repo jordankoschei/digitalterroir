@@ -20,8 +20,8 @@
 
 title: Creative Hudson Valley
 email: jordan@connecthv.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://main--creativehudsonvalley.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://creativehudsonvalley.com"
 
 defaults:
   - scope:
