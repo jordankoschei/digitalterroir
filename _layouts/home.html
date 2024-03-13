@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="bg-stone-50">
+    {% include header.html %}
+
+    <div class="flex justify-center">
+      <div
+        class="p-6 max-w-[90rem] w-full flex flex-col flex-wrap lg:grid lg:grid-cols-3 gap-6 justify-between lg:items-stretch"
+      >
+        {% for post in site.posts %}
+        <a
+          href="{{ post.url }}"
+          class="text-stone-700 bg-white border border-stone-200 rounded-xl shadow-sm flex flex-col relative overflow-clip"
+        >
+          <span
+            class="absolute left-4 top-4 text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 bg-stone-50/80"
+            >{{ post.town }}</span
+          >
+          <img
+            {%
+            if
+            post.hero
+            %}
+            src="{{site.url}}/assets/img/{{ post.hero }}"
+            {%
+            else
+            %}
+            src="{{site.url}}/assets/img/{{ post.title | slugify }}-1.jpg"
+            {%
+            endif
+            %}
+            alt="{{post.title}}"
+            role="presentation"
+            class="w-full aspect-video object-cover"
+          />
+          <div class="p-6 h-full flex flex-col">
+            <h2 class="font-bold text-xl mb-2">{{ post.title }}</h2>
+            <p class="font-serif mb-4">{{ post.intro }}</p>
+            <ul class="flex flex-wrap gap-1 mt-auto">
+              {% for tag in post.tags %}
+              <li>
+                <span
+                  class="text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 border bg-stone-50 border-stone-300"
+                >
+                  {{ tag }}
+                </span>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

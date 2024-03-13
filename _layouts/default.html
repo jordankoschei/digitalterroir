@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="bg-stone-50 antialiased">
+    {% include header.html %}
+
+    <div class="flex flex-col p-8 lg:py-12 items-center justify-center">
+      <div class="w-full lg:text-xl max-w-prose flex flex-col gap-3 mb-6">
+        <h1 class="font-sans text-4xl font-bold">{{ page.title }}</h1>
+        <div class="text-base flex items-center space-x-1 text-stone-300">
+          <span class="whitespace-nowrap text-stone-600">{{ page.town }}</span>
+          <span>/</span>
+          <span class="whitespace-nowrap text-stone-600"
+            >{{ page.county }}</span
+          >
+        </div>
+        <p
+          class="font-serif font-medium text-xl lg:text-2xl italic leading-relaxed lg:leading-relaxed"
+        >
+          {{ page.intro }}
+        </p>
+        <ul class="flex flex-wrap gap-1 mt-auto">
+          {% for tag in page.tags %}
+          <li>
+            <span
+              class="text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 border bg-stone-50 border-stone-300"
+            >
+              {{ tag }}
+            </span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <figure class="mb-6">
+        {% if page.hero %}
+        <img
+          src="{{site.url}}/assets/img/{{ page.hero }}"
+          alt="{{page.title}}"
+          role="presentation"
+          class="w-full max-w-[90rem] aspect-video object-cover rounded-md"
+        />
+        {% else %}
+        <img
+          src="{{site.url}}/assets/img/{{ page.title | slugify }}-1.jpg"
+          alt="{{page.title}}"
+          role="presentation"
+          class="w-full max-w-[90rem] aspect-video object-cover rounded-md"
+        />
+        {% endif %} {% if page.hero_attribution %}
+        <figcaption class="font-sans mt-2 text-stone-500">
+          {{ page.hero_attribution }}
+        </figcaption>
+        {% endif %}
+      </figure>
+
+      <article
+        class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
+      >
+        {% assign current_date = 'now' | date: '%s' %} {% assign post_date =
+        page.date | date: '%s' %} {% assign one_year_in_seconds = 31536000 %} {%
+        if current_date | minus: post_date | abs >= one_year_in_seconds %}
+        <div
+          class="bg-amber-100 text-amber-800 rounded-lg p-6 flex gap-3 italic leading-snug"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke-width="2"
+            stroke="currentColor"
+            class="w-8 h-8 -mt-0.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"
+            />
+          </svg>
+
+          <div>
+            This post was published on
+            <strong class="text-amber-800"
+              >{{ page.date | date: '%B %-d, %Y' }}</strong
+            >. Details may have changed since it was last updated.
+          </div>
+        </div>
+        {% endif %} {{ content }}
+
+        <div class="border-t border-stone-200 mt-6 w-full">
+          {% if page.is_edited %}
+          <p class="text-stone-500 font-sans text-base mb-0 mt-6">
+            This interview has been edited.
+          </p>
+          {% endif %}
+
+          <div class="flex justify-between mb-0 mt-6">
+            {% if page.previous %}
+            <a
+              href="{{ page.previous.url }}"
+              class="flex gap-2 no-underline font-sans font-medium text-teal-600 items-center"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="2"
+                stroke="currentColor"
+                class="w-6 h-6"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18"
+                />
+              </svg>
+
+              <span class="hidden md:inline">{{ page.previous.title }}</span>
+              <span class="md:hidden">Previous</span>
+            </a>
+            {% else %}
+            <span></span>
+            {% endif %} {% if page.next %}
+            <a
+              href="{{ page.next.url }}"
+              class="flex gap-2 no-underline font-sans font-medium text-teal-600 items-center"
+            >
+              <span class="hidden md:inline">{{ page.next.title }}</span>
+              <span class="md:hidden">Next</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="2"
+                stroke="currentColor"
+                class="w-6 h-6"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
+                />
+              </svg>
+            </a>
+            {% else %}
+            <span></span>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>
