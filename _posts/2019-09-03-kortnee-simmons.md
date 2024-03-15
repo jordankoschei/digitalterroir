@@ -1,7 +1,7 @@
 ---
 title: "Kortnee Simmons"
 date: 2019-09-03
-description:
+description: "Interview with Kortnee Simmons, a Hudson Valley musician and actor, discussing his life and career in the arts."
 hero_attribution:
 hero:
 town: Kingston

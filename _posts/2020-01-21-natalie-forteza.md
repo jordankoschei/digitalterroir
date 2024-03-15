@@ -1,7 +1,7 @@
 ---
 title: "Natalie Forteza"
 date: 2020-01-21
-description:
+description: "Interview with Hudson Valley singer-songwriter Natalie Forteza about her music, influences, and local performances."
 hero_attribution: Photo by Rog Walker
 hero:
 town: Cold Spring

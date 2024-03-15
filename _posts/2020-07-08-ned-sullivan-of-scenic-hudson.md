@@ -1,7 +1,7 @@
 ---
 title: "Ned Sullivan of Scenic Hudson"
 date: 2020-07-08
-description:
+description: "Interview with Ned Sullivan, president of Scenic Hudson, discussing the environmental stewardship of the Hudson Valley."
 hero_attribution: Photo by Devin Pickering
 hero: ned-sullivan-of-scenic-hudson-1.jpg
 hero_position: object-center

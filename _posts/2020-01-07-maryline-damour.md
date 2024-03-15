@@ -1,7 +1,7 @@
 ---
 title: "Maryline Damour"
 date: 2020-01-07
-description:
+description: "Interview with Maryline Damour, a Hudson Valley interior designer and founder of Kingston Design Showhouse."
 hero_attribution: Featured photo by Doug Menuez
 hero:
 town: Kingston

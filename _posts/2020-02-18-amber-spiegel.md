@@ -1,7 +1,7 @@
 ---
 title: "Amber Spiegel"
 date: 2020-02-18
-description:
+description: "Interview with Amber Spiegel, a renowned cookie decorator and content creator based in the Hudson Valley."
 hero_attribution: Top photo by Tom Moore
 hero:
 hero_position: object-center

@@ -1,7 +1,7 @@
 ---
 title: "Danny Potocki"
 date: 2019-12-01
-description:
+description: "Interview with Danny Potocki, a Hudson Valley entrepreneur and director of Accel7, a tech startup accelerator."
 hero_attribution:
 hero:
 town: Kingston

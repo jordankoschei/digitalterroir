@@ -1,7 +1,7 @@
 ---
 title: "Neil Cohen"
 date: 2019-11-26
-description:
+description: "Interview with Neil Cohen, filmmaker and author, discussing his work and life in the Hudson Valley."
 hero_attribution:
 hero:
 town: Accord

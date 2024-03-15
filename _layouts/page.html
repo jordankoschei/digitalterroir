@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+
+  <body class="bg-stone-50 antialiased">
+    {% include header.html %}
+
+    <div class="flex flex-col p-8 lg:py-12 items-center justify-center">
+      <div class="w-full lg:text-xl max-w-prose flex flex-col gap-3 mb-6">
+        <h1 class="font-sans text-4xl font-bold">{{ page.title }}</h1>
+      </div>
+
+      <article
+        class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
+      >
+        {{ content }}
+      </article>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

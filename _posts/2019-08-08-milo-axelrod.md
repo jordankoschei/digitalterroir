@@ -1,7 +1,7 @@
 ---
 title: "Milo Axelrod"
 date: 2019-08-08
-description:
+description: "Interview with Milo Axelrod, a Hudson Valley UX designer, artist, and podcast host."
 hero_attribution:
 hero:
 town: New Paltz

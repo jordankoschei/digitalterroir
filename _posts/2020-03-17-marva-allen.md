@@ -1,7 +1,7 @@
 ---
 title: "Marva Allen"
 date: 2020-03-17
-description:
+description: Interview with Marva Allen, a successful entrepreneur and author based in the Hudson Valley.
 town: Beacon
 county: Dutchess County
 tags: Business Tech Writing

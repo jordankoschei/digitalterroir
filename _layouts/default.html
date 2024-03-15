@@ -55,14 +55,14 @@
         {% endif %}
       </figure>
 
-      <article
+      {% assign current_date = 'now' | date: '%s' %} {% assign post_date =
+      page.date | date: '%s' %} {% assign one_year_in_seconds = 31536000 %} {%
+      if current_date | minus: post_date | abs >= one_year_in_seconds %}
+      <div
         class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
       >
-        {% assign current_date = 'now' | date: '%s' %} {% assign post_date =
-        page.date | date: '%s' %} {% assign one_year_in_seconds = 31536000 %} {%
-        if current_date | minus: post_date | abs >= one_year_in_seconds %}
         <div
-          class="bg-amber-100 text-amber-800 rounded-lg p-6 flex gap-3 italic leading-snug"
+          class="bg-amber-100 text-amber-800 rounded-lg p-6 flex gap-3 font-serif mb-6 w-full italic leading-snug"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -70,7 +70,7 @@
             viewBox="0 0 24 24"
             stroke-width="2"
             stroke="currentColor"
-            class="w-8 h-8 -mt-0.5"
+            class="w-6 h-6 shrink-0"
           >
             <path
               stroke-linecap="round"
@@ -86,14 +86,19 @@
             >. Details may have changed since it was last updated.
           </div>
         </div>
-        {% endif %} {{ content }}
+      </div>
+      {% endif %}
+
+      <article
+        class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
+      >
+        {{ content }}
 
         <div class="border-t border-stone-200 mt-6 w-full">
-          {% if page.is_edited %}
           <p class="text-stone-500 font-sans text-base mb-0 mt-6">
-            This interview has been edited.
+            Published on {{ page.date | date: '%B %-d, %Y' }}. {% if
+            page.is_edited %}This interview has been edited.{% endif %}
           </p>
-          {% endif %}
 
           <div class="flex justify-between mb-0 mt-6">
             {% if page.previous %}

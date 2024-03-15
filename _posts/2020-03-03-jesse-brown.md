@@ -1,7 +1,7 @@
 ---
 title: "Jesse Brown"
 date: 2020-03-03
-description:
+description: "Interview with Jesse Brown, co-founder of Hudsy, a Hudson Valley-based online video platform promoting local storytelling."
 hero_attribution:
 hero:
 town: Stone Ridge

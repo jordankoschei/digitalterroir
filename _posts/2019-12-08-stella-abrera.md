@@ -1,7 +1,7 @@
 ---
 title: "Stella Abrera"
 date: 2019-12-08
-description:
+description: "Interview with Stella Abrera, principal ballerina and artistic director at Kaatsbaan in the Hudson Valley."
 hero_attribution:
 hero:
 town: Tivoli
@@ -11,6 +11,7 @@ tags:
   - Performing Arts
 intro: Stella Abrera is principal ballerina of the American Ballet Theatre and the newly-installed artistic director at Kaatsbaan, a renowned cultural park for dance in Tivoli.
 is_edited: true
+is_featured: true
 links:
   - title: Kaatsbaan
     url: https://kaatsbaan.org/

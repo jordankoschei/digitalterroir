@@ -1,7 +1,7 @@
 ---
 title: "Jared Schafer"
 date: 2019-08-07
-description:
+description: "Interview with Jared Schafer, a Hudson Valley-based motion designer creating stunning animations and posters."
 hero_attribution:
 hero:
 hero_position: object-center

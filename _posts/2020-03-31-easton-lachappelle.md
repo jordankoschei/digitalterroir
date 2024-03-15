@@ -1,7 +1,7 @@
 ---
 title: "Easton LaChappelle"
 date: 2020-03-31
-description:
+description: "Interview with Easton LaChappelle, Hudson Valley tech innovator revolutionizing the prosthetics industry with Unlimited Tomorrow."
 hero_attribution: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 hero:
 hero_position: object-center

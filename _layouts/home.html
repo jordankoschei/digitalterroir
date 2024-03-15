@@ -3,13 +3,84 @@
   {% include head.html %}
 
   <body class="bg-stone-50">
-    {% include header.html %}
+    {% include header.html %} {% assign top_post = site.posts.first %} {% assign
+    slug_title = top_post.title | slugify %} {% if top_post.hero %} {% assign
+    top_image = site.url | append: "/assets/img/" | append: top_post.hero %} {%
+    else %} {% assign top_image = site.url | append: "/assets/img/" | append:
+    slug_title | append: "-1.jpg" %} {% endif %}
+    <div
+      class="flex w-full h-[60vh] bg-cover bg-center flex-col items-center"
+      style="background-image: url('{{ top_image }}')"
+    >
+      <div class="w-full max-w-[90rem] p-6 h-full flex flex-col justify-end">
+        <a
+          class="md:w-1/2 flex flex-col gap-3 items-start bg-white/30 backdrop-blur-lg p-5 text-stone-800 border border-stone-200 rounded-xl shadow-sm group"
+          href="{{ top_post.url }}"
+        >
+          <span class="text-sm md:text-base">Featured interview</span>
+          <h2 class="text-2xl md:text-4xl italic font-serif">
+            {{ top_post.title }}
+          </h2>
+          <p class="font-serif italic text-base md:text-xl">
+            {{ top_post.intro }}
+          </p>
+          <span
+            class="text-sm md:text-base flex gap-1 items-center text-teal-700"
+            >Read more
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              class="w-5 h-5 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div>
 
-    <div class="flex justify-center">
+    <!-- <div class="flex flex-col items-center py-6 lg:pb-12">
+      {% assign top_post = site.posts.first %} {% assign slug_title =
+      top_post.title | slugify %} {% if top_post.hero %} {% assign top_image =
+      site.url | append: "/assets/img/" | append: top_post.hero %} {% else %} {%
+      assign top_image = site.url | append: "/assets/img/" | append: slug_title
+      | append: "-1.jpg" %} {% endif %}
+      <div class="w-full max-w-[90rem] px-6">
+        <a
+          href="{{ top_post.url }}"
+          class="flex relative w-full h-[60vh] bg-cover bg-center rounded-lg shadow-2xl overflow-clip"
+          style="background-image: url('{{ top_image }}')"
+        >
+          <div
+            class="absolute left-0 top-0 bottom-0 right-0 bg-gradient-to-r from-black/50 to-black/0 start pointer-events-none"
+          ></div>
+          <span
+            class="absolute left-8 top-8 text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 bg-stone-50/80"
+            >Featured interview</span
+          >
+          <div class="absolute bottom-8 left-8 w-1/2">
+            <h2
+              class="text-5xl italic font-serif text-white mb-3 drop-shadow-md"
+            >
+              {{ top_post.title }}
+            </h2>
+            <p class="font-serif italic text-2xl text-stone-100 drop-shadow-md">
+              {{ top_post.intro }}
+            </p>
+          </div>
+        </a>
+      </div> -->
+
+    <div class="flex flex-col items-center py-6 lg:pb-12">
       <div
-        class="p-6 max-w-[90rem] w-full flex flex-col flex-wrap lg:grid lg:grid-cols-3 gap-6 justify-between lg:items-stretch"
+        class="p-6 lg:py-12 max-w-[90rem] w-full flex flex-col flex-wrap md:grid md:grid-cols-2 lg:grid-cols-3 gap-6 justify-between md:items-stretch"
       >
-        {% for post in site.posts %}
+        {% for post in site.posts | offset: 1 %}
         <a
           href="{{ post.url }}"
           class="text-stone-700 bg-white border border-stone-200 rounded-xl shadow-sm flex flex-col relative overflow-clip"

@@ -1,7 +1,7 @@
 ---
 title: "Scott Tillitt"
 date: 2019-08-06
-description:
+description: "Interview with Scott Tillitt, Hudson Valley community leader and founder of BEAHIVE coworking spaces."
 hero_attribution:
 hero:
 town: Beacon

@@ -1,7 +1,7 @@
 ---
 title: "Julia Green"
 date: 2020-02-04
-description:
+description: "Interview with Julia Green, a Hudson Valley illustrator, songwriter, and comedian. Discusses her creative journey and life in Beacon, NY."
 hero_attribution: Photo by Stephanie Pruss
 hero:
 town: Beacon

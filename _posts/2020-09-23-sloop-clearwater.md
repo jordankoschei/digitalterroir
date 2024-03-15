@@ -1,7 +1,7 @@
 ---
 title: "Sloop Clearwater"
 date: 2020-09-23
-description:
+description: "Interview with Sloop Clearwater, a Hudson Valley icon, discussing its history, mission, and impact on environmental education."
 hero: clearwater-hero.jpg
 town: Beacon
 county: Dutchess County

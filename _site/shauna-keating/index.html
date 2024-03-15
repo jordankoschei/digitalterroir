@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <script
+    src="https://cdn.usefathom.com/script.js"
+    data-site="GKUAGSZU"
+    defer
+  ></script>
+
   <title>Shauna Keating</title>
   <meta
     name="description"
-    content=""
+    content="Interview with Shauna Keating, a UX designer and community leader in the Hudson Valley."
   />
   <meta name="author" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,7 +19,7 @@
   <meta property="og:title" content="Shauna Keating" />
   <meta
     property="og:description"
-    content=""
+    content="Interview with Shauna Keating, a UX designer and community leader in the Hudson Valley."
   />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -22,7 +28,25 @@
     rel="stylesheet"
   />
 
-  <link href="https://main--creativehudsonvalley.netlify.app/assets/css/style.css" rel="stylesheet" />
+  <link href="http://localhost:4000/assets/css/style.css" rel="stylesheet" />
+
+  <link rel="alternate" type="application/rss+xml" title="Creative Hudson Valley RSS
+  Feed" href="/feed.xml" />
+
+  <link
+    rel="icon"
+    href="http://localhost:4000/assets/img/favicon.png"
+    type="image/x-icon"
+  />
+
+  <meta property="og:url" content="http://localhost:4000/shauna-keating/" />
+  <meta property="og:type" content="website" />
+  
+  <meta
+    property="og:image"
+    content="http://localhost:4000/assets/img/shauna-keating-1.jpg"
+  />
+  
 </head>
 
 
@@ -34,7 +58,7 @@
     <div class="flex">
       <span class="flex flex-col">
         <a
-          href="https://main--creativehudsonvalley.netlify.app"
+          href="http://localhost:4000"
           class="italic mr-2 font-serif text-2xl text-stone-700 leading-none inline-block"
           >Creative <span class="font-bold">Hudson Valley</span></a
         >
@@ -46,18 +70,18 @@
 
     <nav class="flex space-x-5">
       <a
-        href="https://main--creativehudsonvalley.netlify.app"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        href="http://localhost:4000"
+        
+          class="flex space-x-1 justify-center rounded-lg hover:underline text-teal-600"
+        
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
-          aria-hidden="true"
-          data-slot="icon"
+          class="w-6 h-6 hidden sm:inline-block"
         >
           <path
             stroke-linecap="round"
@@ -65,18 +89,22 @@
             d="M12 18.75a6 6 0 0 0 6-6v-1.5m-6 7.5a6 6 0 0 1-6-6v-1.5m6 7.5v3.75m-3.75 0h7.5M12 15.75a3 3 0 0 1-3-3V4.5a3 3 0 1 1 6 0v8.25a3 3 0 0 1-3 3Z"
           />
         </svg>
+
         <span>Interviews</span>
       </a>
+
       <a
-        href="https://main--creativehudsonvalley.netlify.app/about"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        href="http://localhost:4000/about"
+        
+          class="flex space-x-1 justify-center rounded-lg hover:underline text-teal-600"
+        
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
+          class="w-6 h-6 hidden sm:inline-block"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
           aria-hidden="true"
           data-slot="icon"
@@ -85,40 +113,40 @@
             stroke-linecap="round"
             stroke-linejoin="round"
             d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z"
-          />
+          ></path>
         </svg>
         <span>About</span>
       </a>
+
       <a
         href="https://connecthv.com"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        target="_blank"
+        class="flex space-x-1 justify-center rounded-lg hover:underline text-teal-600"
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
-          aria-hidden="true"
-          data-slot="icon"
+          class="w-6 h-6 hidden sm:inline-block"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 6.878V6a2.25 2.25 0 0 1 2.25-2.25h7.5A2.25 2.25 0 0 1 18 6v.878m-12 0c.235-.083.487-.128.75-.128h10.5c.263 0 .515.045.75.128m-12 0A2.25 2.25 0 0 0 4.5 9v.878m13.5-3A2.25 2.25 0 0 1 19.5 9v.878m0 0a2.246 2.246 0 0 0-.75-.128H5.25c-.263 0-.515.045-.75.128m15 0A2.25 2.25 0 0 1 21 12v6a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 18v-6c0-.98.626-1.813 1.5-2.122" />
+        </svg>
+
+        <span>Directory</span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          class="w-5 h-5"
         >
           <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-          />
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
+            fill-rule="evenodd"
+            d="M5.22 14.78a.75.75 0 0 0 1.06 0l7.22-7.22v5.69a.75.75 0 0 0 1.5 0v-7.5a.75.75 0 0 0-.75-.75h-7.5a.75.75 0 0 0 0 1.5h5.69l-7.22 7.22a.75.75 0 0 0 0 1.06Z"
+            clip-rule="evenodd"
           />
         </svg>
-        <span
-          >ConnectHV<span class="hidden sm:inline">
-            (Online Directory)</span
-          ></span
-        >
       </a>
     </nav>
   </div>
@@ -164,7 +192,7 @@
       <figure class="mb-6">
         
         <img
-          src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-1.jpg"
+          src="http://localhost:4000/assets/img/shauna-keating-1.jpg"
           alt="Shauna Keating"
           role="presentation"
           class="w-full max-w-[90rem] aspect-video object-cover rounded-md"
@@ -172,12 +200,12 @@
          
       </figure>
 
-      <article
+         
+      <div
         class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
       >
-           
         <div
-          class="bg-amber-100 text-amber-800 rounded-lg p-6 flex gap-3 italic leading-snug"
+          class="bg-amber-100 text-amber-800 rounded-lg p-6 flex gap-3 font-serif mb-6 w-full italic leading-snug"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -185,7 +213,7 @@
             viewBox="0 0 24 24"
             stroke-width="2"
             stroke="currentColor"
-            class="w-8 h-8 -mt-0.5"
+            class="w-6 h-6 shrink-0"
           >
             <path
               stroke-linecap="round"
@@ -201,15 +229,21 @@
             >. Details may have changed since it was last updated.
           </div>
         </div>
-         <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-1.jpg" alt="Shauna Keating" class="w-full" />
+      </div>
+      
+
+      <article
+        class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm"
+      >
+        <figure>
+  <img src="http://localhost:4000/assets/img/shauna-keating-1.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center"></figcaption>
 </figure>
 
 <p>In addition to her leadership in local tech and design organizations, she’s also actively involved with other community-building groups like <a href="https://hudsonvalleywomeninbusiness.com/">Hudson Valley Women in Business</a> and <a href="https://www.stockadefc.com/">Kingston Stockade FC</a>. And that’s on top of her career as a UX designer who’s worked on numerous projects for companies in the Hudson Valley and beyond.</p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-2.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-2.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">Shauna and a group of local creatives who toured Lite Brite Neon as part of the “Connect with Creatives” she organized for AIGA Upstate.</figcaption>
 </figure>
 
@@ -220,7 +254,7 @@
 <p>I am an organizer of the <a href="https://www.meetup.com/hvtech/">Hudson Valley Tech Meetup</a>. You can catch me on stage as an emcee at the Kingston meetup every other month. I also am currently serving as Co-President on the board of the <a href="https://upstatenewyork.aiga.org/">Upstate NY chapter of AIGA</a>, the professional association for design.</p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-3.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-3.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">Shauna, her dog Toby, and Lauree Ostrofsky emceeing a collaborative HV Tech/HV Women in Business meetup.</figcaption>
 </figure>
 
@@ -231,7 +265,7 @@
 <p>I grew up just over an hour south of Kingston in northern New Jersey. I originally came up in 2012 to attend <a href="https://www.newpaltz.edu/">SUNY New Paltz</a> as a student in their <a href="https://www.newpaltz.edu/graphicdesign/">Graphic Design program</a>. When I finished my BFA a few years ago, my roots were here, so I decided to stay.</p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-4.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-4.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">An AIGA Upstate “Connect with Creatives” event that Shauna organized at <a href="http://www.litebriteneon.com/">Lite Brite Neon</a> in Kingston.</figcaption>
 </figure>
 
@@ -246,7 +280,7 @@
 <p>The biggest impact of being here vs. being in a large city is that my voice can actually be heard and I am given the opportunity to advocate for myself and other young people starting their careers. Had I started my career in New York or Boston I would have been lost in a sea of entry level designers. In the Hudson Valley, there is more space to grow. I would not have had the opportunities I’ve had here anywhere else.</p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-5.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-5.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">Shauna speaking on a panel about inclusive design at <a href="https://tomtomfest.com/">Tom Tom Founder’s Festival</a>.</figcaption>
 </figure>
 
@@ -261,21 +295,23 @@
 <p>The Hudson Valley Tech Meetup is also always in need of motivated volunteers. If you are interested in getting involved, feel free to send us a DM on <a href="https://www.instagram.com/hvtech/">Instagram</a> or <a href="https://twitter.com/hv_tech">Twitter</a> with your email or preferred method of communication.</p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-6.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-6.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">Shauna emceeing an HV Tech Meetup event in Kingston, alongside co-organizers Kale Kaposhilin and Erin Barth-Dwyer.</figcaption>
 </figure>
 
 <p>I am currently on the hunt for some Programming Coordinators to help me plan design events with AIGA Upstate NY in the Hudson Valley. We also are looking to fill some of our board roles, many of which are 100% remote.  If that interests you, please send me an email at <strong>president@upstatenewyork.aiga.org</strong></p>
 
 <figure>
-  <img src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-7.jpg" alt="Shauna Keating" class="w-full" />
+  <img src="http://localhost:4000/assets/img/shauna-keating-7.jpg" alt="Shauna Keating" class="w-full" />
   <figcaption class="font-sans text-center">The 2019 AIGA Upstate NY Hudson Valley Portfolio Review, held at <a href="http://bspkingston.com/">BSP Kingston</a>.</figcaption>
 </figure>
 
 
 
         <div class="border-t border-stone-200 mt-6 w-full">
-          
+          <p class="text-stone-500 font-sans text-base mb-0 mt-6">
+            Published on August 21, 2019. 
+          </p>
 
           <div class="flex justify-between mb-0 mt-6">
             
@@ -340,7 +376,7 @@
         <div class="flex-col hidden lg:flex">
           <div>
             <a
-              href="https://main--creativehudsonvalley.netlify.app"
+              href="http://localhost:4000"
               class="italic mr-2 font-serif text-3xl text-stone-700 leading-none inline-block"
               >Creative <span class="font-bold">Hudson Valley</span></a
             >
@@ -356,15 +392,15 @@
       </div>
 
       <div class="flex flex-col gap-4 lg:w-2/5">
-        <a href="https://connecthv.com" class="flex flex-row md:items-center">
+        <a href="https://connecthv.com" class="flex flex-row group">
           <div
-            class="w-8 h-8 md:w-20 md:h-20 md:rounded-xl md:bg-teal-100 text-teal-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
+            class="w-8 h-8 md:w-12 md:h-12 md:rounded-xl md:bg-teal-100 text-teal-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="currentColor"
-              class="w-8 h-8 md:w-10 md:h-10"
+              class="w-8 h-8"
             >
               <path
                 fill-rule="evenodd"
@@ -374,8 +410,21 @@
             </svg>
           </div>
           <div class="flex flex-col w-full">
-            <span class="font-serif text-2xl text-stone-800 italic flex"
+            <span
+              class="font-serif text-2xl my-2 text-stone-800 italic flex items-center"
               >Connect<span class="font-bold">HV</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                class="w-5 h-5 ml-1 text-stone-400 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                  clip-rule="evenodd"
+                />
+              </svg>
             </span>
             <p class="text-stone-600">
               Homegrown online directory of Hudson Valley creatives, makers, and
@@ -388,16 +437,16 @@
 
         <a
           href="https://digitalterroir.org"
-          class="flex flex-row md:items-center"
+          class="flex flex-row md:items-start group"
         >
           <div
-            class="w-8 h-8 md:w-20 md:h-20 md:rounded-xl md:bg-rose-100 text-rose-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
+            class="w-8 h-8 md:w-12 md:h-12 md:rounded-xl md:bg-rose-100 text-rose-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="currentColor"
-              class="w-8 h-8 md:w-10 md:h-10"
+              class="w-8 h-8"
             >
               <path
                 fill-rule="evenodd"
@@ -410,9 +459,21 @@
             </svg>
           </div>
           <div class="flex flex-col w-full">
-            <span class="font-serif text-2xl text-stone-800 italic"
-              >Digital <span class="font-bold">Terroir</span></span
-            >
+            <span
+              class="font-serif text-2xl text-stone-800 my-2 italic items-center flex"
+              >Digital <span class="ml-[0.5ch] font-bold">Terroir</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                class="w-5 h-5 ml-1 text-stone-400 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                  clip-rule="evenodd"
+                /></svg
+            ></span>
             <p class="text-stone-600">
               Newsletter exploring the intersection of software, culture, and
               the Hudson Valley.

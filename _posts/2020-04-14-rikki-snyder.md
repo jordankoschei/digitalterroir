@@ -1,7 +1,7 @@
 ---
 title: "Rikki Snyder"
 date: 2020-04-14
-description:
+description: "Interview with Hudson Valley photographer Rikki Snyder, discussing her work, inspirations, and life in the region."
 hero_attribution:
 hero:
 hero_position: object-center

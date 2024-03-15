@@ -1,7 +1,7 @@
 ---
 title: "Dana Jones, Founder of Accessadoor"
 date: 2020-08-12
-description:
+description: "Interview with Dana Jones, Hudson Valley entrepreneur and founder of Accessadoor, improving accessibility with innovative technology."
 hero_attribution:
 hero:
 town: Poughkeepsie

@@ -1,7 +1,7 @@
 ---
 title: "Mike Burdge"
 date: 2019-11-12
-description:
+description: "Interview with Mike Burdge, founder of Story Screen, a unique independent movie theater in the Hudson Valley."
 hero_attribution:
 hero:
 town: Beacon

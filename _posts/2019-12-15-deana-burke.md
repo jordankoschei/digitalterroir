@@ -1,7 +1,7 @@
 ---
 title: "Deana Burke"
 date: 2019-12-15
-description:
+description: "Interview with Deana Burke, Hudson Valley entrepreneur democratizing Bitcoin through her startup, Gracias."
 hero_attribution:
 hero:
 town: Kingston

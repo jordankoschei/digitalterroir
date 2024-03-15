@@ -1,7 +1,7 @@
 ---
 title: "Jon Bowermaster"
 date: 2020-06-23
-description:
+description: "Interview with Jon Bowermaster, a Hudson Valley-based filmmaker, writer, and adventurer focusing on environmental issues."
 hero_attribution:
 hero:
 town: Germantown

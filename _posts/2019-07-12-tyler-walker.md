@@ -1,7 +1,7 @@
 ---
 title: "Tyler Walker"
 date: 2019-07-12
-description:
+description: "Interview with Tyler Walker, a Hudson Valley-based composer and app developer, discussing his work and life in the region."
 hero_attribution:
 hero:
 town: Highland

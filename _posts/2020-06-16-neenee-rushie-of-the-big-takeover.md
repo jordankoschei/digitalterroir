@@ -1,7 +1,7 @@
 ---
 title: "NeeNee Rushie of The Big Takeover"
 date: 2020-06-16
-description:
+description: "Interview with NeeNee Rushie, frontwoman of The Big Takeover, discussing her music and life in the Hudson Valley."
 hero_attribution:
 hero:
 town: Ulster Park

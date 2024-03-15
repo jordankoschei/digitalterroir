@@ -1,7 +1,7 @@
 ---
 title: "Jalani Lion"
 date: 2020-07-02
-description:
+description: "Interview with Jalani Lion, a Hudson Valley artist known for his music and impactful murals, including the Black Lives Matter mural in Kingston."
 hero_attribution: Top photo by Tania Barricklo for The Daily Freeman
 hero_position: object-center
 town: Kingston

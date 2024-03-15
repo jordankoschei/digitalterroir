@@ -1,7 +1,7 @@
 ---
 title: "Aaron Weisblatt"
 date: 2019-09-28
-description:
+description: "Interview with Aaron Weisblatt, Oscar-nominated filmmaker based in Hudson Valley, discussing his career and local influence."
 hero_attribution:
 hero:
 town: Woodstock

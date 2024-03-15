@@ -1,7 +1,7 @@
 ---
 title: "The Ramsdens"
-date: 2019-11-18
-description:
+date: 2099-11-18
+description: "Interview with The Ramsdens, renowned Hudson Valley photographers. Discover their unique style and journey in the Hudson Valley."
 hero_attribution:
 hero:
 town: Poughkeepsie

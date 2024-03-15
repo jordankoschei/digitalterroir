@@ -1,7 +1,7 @@
 ---
 title: "Shauna Keating"
 date: 2019-08-21
-description:
+description: "Interview with Shauna Keating, a UX designer and community leader in the Hudson Valley."
 hero_attribution:
 hero:
 town: Kingston

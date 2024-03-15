@@ -1,7 +1,7 @@
 ---
 title: "Jimmy DeCicco of Super Coffee"
 date: 2020-05-26
-description:
+description: "Interview with Jimmy DeCicco, CEO of Super Coffee, discussing his Hudson Valley roots and the company's journey to success."
 hero_attribution:
 hero: jimmy-decicco-1.jpg
 town: Kingston

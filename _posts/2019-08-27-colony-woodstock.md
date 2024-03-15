@@ -1,7 +1,7 @@
 ---
 title: "Neil Howard of the Colony Woodstock"
 date: 2019-08-27
-description:
+description: "Interview with Neil Howard, co-owner of the Colony Woodstock, a thriving music venue in the Hudson Valley."
 hero_attribution:
 hero: colony-woodstock-1.jpg
 town: Woodstock

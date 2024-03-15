@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <script
+    src="https://cdn.usefathom.com/script.js"
+    data-site="GKUAGSZU"
+    defer
+  ></script>
+
   <title>Creative Hudson Valley</title>
   <meta
     name="description"
@@ -22,7 +28,25 @@
     rel="stylesheet"
   />
 
-  <link href="https://main--creativehudsonvalley.netlify.app/assets/css/style.css" rel="stylesheet" />
+  <link href="http://localhost:4000/assets/css/style.css" rel="stylesheet" />
+
+  <link rel="alternate" type="application/rss+xml" title="Creative Hudson Valley RSS
+  Feed" href="/feed.xml" />
+
+  <link
+    rel="icon"
+    href="http://localhost:4000/assets/img/favicon.png"
+    type="image/x-icon"
+  />
+
+  <meta property="og:url" content="http://localhost:4000/" />
+  <meta property="og:type" content="website" />
+  
+  <meta
+    property="og:image"
+    content="http://localhost:4000/assets/img/-1.jpg"
+  />
+  
 </head>
 
 
@@ -34,7 +58,7 @@
     <div class="flex">
       <span class="flex flex-col">
         <a
-          href="https://main--creativehudsonvalley.netlify.app"
+          href="http://localhost:4000"
           class="italic mr-2 font-serif text-2xl text-stone-700 leading-none inline-block"
           >Creative <span class="font-bold">Hudson Valley</span></a
         >
@@ -46,18 +70,18 @@
 
     <nav class="flex space-x-5">
       <a
-        href="https://main--creativehudsonvalley.netlify.app"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        href="http://localhost:4000"
+        
+          class="flex space-x-1 justify-center rounded-lg text-teal-600 underline cursor-default"
+        
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
-          aria-hidden="true"
-          data-slot="icon"
+          class="w-6 h-6 hidden sm:inline-block"
         >
           <path
             stroke-linecap="round"
@@ -65,18 +89,22 @@
             d="M12 18.75a6 6 0 0 0 6-6v-1.5m-6 7.5a6 6 0 0 1-6-6v-1.5m6 7.5v3.75m-3.75 0h7.5M12 15.75a3 3 0 0 1-3-3V4.5a3 3 0 1 1 6 0v8.25a3 3 0 0 1-3 3Z"
           />
         </svg>
+
         <span>Interviews</span>
       </a>
+
       <a
-        href="https://main--creativehudsonvalley.netlify.app/about"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        href="http://localhost:4000/about"
+        
+          class="flex space-x-1 justify-center rounded-lg hover:underline text-teal-600"
+        
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
+          class="w-6 h-6 hidden sm:inline-block"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
           aria-hidden="true"
           data-slot="icon"
@@ -85,83 +113,113 @@
             stroke-linecap="round"
             stroke-linejoin="round"
             d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z"
-          />
+          ></path>
         </svg>
         <span>About</span>
       </a>
+
       <a
         href="https://connecthv.com"
-        class="flex justify-center rounded-lg text-teal-600 hover:text-teal-700 underline hover:no-underline"
+        target="_blank"
+        class="flex space-x-1 justify-center rounded-lg hover:underline text-teal-600"
       >
         <svg
-          class="w-6 h-6 hidden lg:inline-block mr-1"
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
           viewBox="0 0 24 24"
-          stroke-width="2"
+          stroke-width="1.5"
           stroke="currentColor"
-          aria-hidden="true"
-          data-slot="icon"
+          class="w-6 h-6 hidden sm:inline-block"
+        >
+          <path stroke-linecap="round" stroke-linejoin="round" d="M6 6.878V6a2.25 2.25 0 0 1 2.25-2.25h7.5A2.25 2.25 0 0 1 18 6v.878m-12 0c.235-.083.487-.128.75-.128h10.5c.263 0 .515.045.75.128m-12 0A2.25 2.25 0 0 0 4.5 9v.878m13.5-3A2.25 2.25 0 0 1 19.5 9v.878m0 0a2.246 2.246 0 0 0-.75-.128H5.25c-.263 0-.515.045-.75.128m15 0A2.25 2.25 0 0 1 21 12v6a2.25 2.25 0 0 1-2.25 2.25H5.25A2.25 2.25 0 0 1 3 18v-6c0-.98.626-1.813 1.5-2.122" />
+        </svg>
+
+        <span>Directory</span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          class="w-5 h-5"
         >
           <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-          />
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
+            fill-rule="evenodd"
+            d="M5.22 14.78a.75.75 0 0 0 1.06 0l7.22-7.22v5.69a.75.75 0 0 0 1.5 0v-7.5a.75.75 0 0 0-.75-.75h-7.5a.75.75 0 0 0 0 1.5h5.69l-7.22 7.22a.75.75 0 0 0 0 1.06Z"
+            clip-rule="evenodd"
           />
         </svg>
-        <span
-          >ConnectHV<span class="hidden sm:inline">
-            (Online Directory)</span
-          ></span
-        >
       </a>
     </nav>
   </div>
 </div>
+   
+    <div
+      class="flex w-full h-[60vh] bg-cover bg-center flex-col items-center"
+      style="background-image: url('http://localhost:4000/assets/img/clearwater-hero.jpg')"
+    >
+      <div class="w-full max-w-[90rem] p-6 h-full flex flex-col justify-end">
+        <a
+          class="md:w-1/2 flex flex-col gap-3 items-start bg-white/30 backdrop-blur-lg p-5 text-stone-800 border border-stone-200 rounded-xl shadow-sm group"
+          href="/sloop-clearwater/"
+        >
+          <span class="text-sm md:text-base">Featured interview</span>
+          <h2 class="text-2xl md:text-4xl italic font-serif">
+            Sloop Clearwater
+          </h2>
+          <p class="font-serif italic text-base md:text-xl">
+            For over 50 years, the Sloop Clearwater has sailed the Hudson River, building awareness and advocating for the region's precious environment.
+          </p>
+          <span
+            class="text-sm md:text-base flex gap-1 items-center text-teal-700"
+            >Read more
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              class="w-5 h-5 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </span>
+        </a>
+      </div>
+    </div>
 
-
-    <div class="flex justify-center">
-      <div
-        class="p-6 max-w-[90rem] w-full flex flex-col flex-wrap lg:grid lg:grid-cols-3 gap-6 justify-between lg:items-stretch"
-      >
+    <!-- <div class="flex flex-col items-center py-6 lg:pb-12">
         
+      <div class="w-full max-w-[90rem] px-6">
         <a
           href="/sloop-clearwater/"
-          class="text-stone-700 bg-white border border-stone-200 rounded-xl shadow-sm flex flex-col relative overflow-clip"
+          class="flex relative w-full h-[60vh] bg-cover bg-center rounded-lg shadow-2xl overflow-clip"
+          style="background-image: url('http://localhost:4000/assets/img/clearwater-hero.jpg')"
         >
+          <div
+            class="absolute left-0 top-0 bottom-0 right-0 bg-gradient-to-r from-black/50 to-black/0 start pointer-events-none"
+          ></div>
           <span
-            class="absolute left-4 top-4 text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 bg-stone-50/80"
-            >Beacon</span
+            class="absolute left-8 top-8 text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 bg-stone-50/80"
+            >Featured interview</span
           >
-          <img
-            
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/clearwater-hero.jpg"
-            
-            alt="Sloop Clearwater"
-            role="presentation"
-            class="w-full aspect-video object-cover"
-          />
-          <div class="p-6 h-full flex flex-col">
-            <h2 class="font-bold text-xl mb-2">Sloop Clearwater</h2>
-            <p class="font-serif mb-4">For over 50 years, the Sloop Clearwater has sailed the Hudson River, building awareness and advocating for the region's precious environment.</p>
-            <ul class="flex flex-wrap gap-1 mt-auto">
-              
-              <li>
-                <span
-                  class="text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 border bg-stone-50 border-stone-300"
-                >
-                  Community
-                </span>
-              </li>
-              
-            </ul>
+          <div class="absolute bottom-8 left-8 w-1/2">
+            <h2
+              class="text-5xl italic font-serif text-white mb-3 drop-shadow-md"
+            >
+              Sloop Clearwater
+            </h2>
+            <p class="font-serif italic text-2xl text-stone-100 drop-shadow-md">
+              For over 50 years, the Sloop Clearwater has sailed the Hudson River, building awareness and advocating for the region's precious environment.
+            </p>
           </div>
         </a>
+      </div> -->
+
+    <div class="flex flex-col items-center py-6 lg:pb-12">
+      <div
+        class="p-6 lg:py-12 max-w-[90rem] w-full flex flex-col flex-wrap md:grid md:grid-cols-2 lg:grid-cols-3 gap-6 justify-between md:items-stretch"
+      >
         
         <a
           href="/dana-jones-founder-of-accessadoor/"
@@ -173,7 +231,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/dana-jones-founder-of-accessadoor-1.jpg"
+            src="http://localhost:4000/assets/img/dana-jones-founder-of-accessadoor-1.jpg"
             
             alt="Dana Jones, Founder of Accessadoor"
             role="presentation"
@@ -206,7 +264,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/ned-sullivan-of-scenic-hudson-1.jpg"
+            src="http://localhost:4000/assets/img/ned-sullivan-of-scenic-hudson-1.jpg"
             
             alt="Ned Sullivan of Scenic Hudson"
             role="presentation"
@@ -239,7 +297,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/jalani-lion-1.jpg"
+            src="http://localhost:4000/assets/img/jalani-lion-1.jpg"
             
             alt="Jalani Lion"
             role="presentation"
@@ -280,7 +338,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/jon-bowermaster-1.jpg"
+            src="http://localhost:4000/assets/img/jon-bowermaster-1.jpg"
             
             alt="Jon Bowermaster"
             role="presentation"
@@ -313,7 +371,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/neenee-rushie-of-the-big-takeover-1.jpg"
+            src="http://localhost:4000/assets/img/neenee-rushie-of-the-big-takeover-1.jpg"
             
             alt="NeeNee Rushie of The Big Takeover"
             role="presentation"
@@ -346,7 +404,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/jimmy-decicco-1.jpg"
+            src="http://localhost:4000/assets/img/jimmy-decicco-1.jpg"
             
             alt="Jimmy DeCicco of Super Coffee"
             role="presentation"
@@ -379,7 +437,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/bryan-meador-1.jpg"
+            src="http://localhost:4000/assets/img/bryan-meador-1.jpg"
             
             alt="Bryan Meador"
             role="presentation"
@@ -428,7 +486,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/rikki-snyder-1.jpg"
+            src="http://localhost:4000/assets/img/rikki-snyder-1.jpg"
             
             alt="Rikki Snyder"
             role="presentation"
@@ -461,7 +519,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/easton-lachappelle-1.jpg"
+            src="http://localhost:4000/assets/img/easton-lachappelle-1.jpg"
             
             alt="Easton LaChappelle"
             role="presentation"
@@ -502,7 +560,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/marva-allen-1.jpg"
+            src="http://localhost:4000/assets/img/marva-allen-1.jpg"
             
             alt="Marva Allen"
             role="presentation"
@@ -551,7 +609,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/jesse-brown-1.jpg"
+            src="http://localhost:4000/assets/img/jesse-brown-1.jpg"
             
             alt="Jesse Brown"
             role="presentation"
@@ -592,7 +650,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/amber-spiegel-1.jpg"
+            src="http://localhost:4000/assets/img/amber-spiegel-1.jpg"
             
             alt="Amber Spiegel"
             role="presentation"
@@ -625,7 +683,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/julia-green-1.jpg"
+            src="http://localhost:4000/assets/img/julia-green-1.jpg"
             
             alt="Julia Green"
             role="presentation"
@@ -674,7 +732,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/natalie-forteza-1.jpg"
+            src="http://localhost:4000/assets/img/natalie-forteza-1.jpg"
             
             alt="Natalie Forteza"
             role="presentation"
@@ -715,7 +773,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/maryline-damour-1.jpg"
+            src="http://localhost:4000/assets/img/maryline-damour-1.jpg"
             
             alt="Maryline Damour"
             role="presentation"
@@ -756,7 +814,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/deana-burke-1.jpg"
+            src="http://localhost:4000/assets/img/deana-burke-1.jpg"
             
             alt="Deana Burke"
             role="presentation"
@@ -797,7 +855,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/stella-abrera-1.jpg"
+            src="http://localhost:4000/assets/img/stella-abrera-1.jpg"
             
             alt="Stella Abrera"
             role="presentation"
@@ -838,7 +896,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/danny-potocki-1.jpg"
+            src="http://localhost:4000/assets/img/danny-potocki-1.jpg"
             
             alt="Danny Potocki"
             role="presentation"
@@ -879,7 +937,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/neil-cohen-1.jpg"
+            src="http://localhost:4000/assets/img/neil-cohen-1.jpg"
             
             alt="Neil Cohen"
             role="presentation"
@@ -911,39 +969,6 @@
         </a>
         
         <a
-          href="/the-ramsdens/"
-          class="text-stone-700 bg-white border border-stone-200 rounded-xl shadow-sm flex flex-col relative overflow-clip"
-        >
-          <span
-            class="absolute left-4 top-4 text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 bg-stone-50/80"
-            >Poughkeepsie</span
-          >
-          <img
-            
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/the-ramsdens-1.jpg"
-            
-            alt="The Ramsdens"
-            role="presentation"
-            class="w-full aspect-video object-cover"
-          />
-          <div class="p-6 h-full flex flex-col">
-            <h2 class="font-bold text-xl mb-2">The Ramsdens</h2>
-            <p class="font-serif mb-4">If you follow any Hudson Valley-based photographers on Instagram, there's a good chance you follow the Ramsdens. Caitlinn (a Beacon native) and Brian (from South Africa) have a unique visual style that's made their work as popular as it is impressive.</p>
-            <ul class="flex flex-wrap gap-1 mt-auto">
-              
-              <li>
-                <span
-                  class="text-sm text-stone-900 font-medium whitespace-nowrap rounded py-0.5 px-2 border bg-stone-50 border-stone-300"
-                >
-                  Photography
-                </span>
-              </li>
-              
-            </ul>
-          </div>
-        </a>
-        
-        <a
           href="/mike-burdge/"
           class="text-stone-700 bg-white border border-stone-200 rounded-xl shadow-sm flex flex-col relative overflow-clip"
         >
@@ -953,7 +978,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/mike-burdge-1.jpg"
+            src="http://localhost:4000/assets/img/mike-burdge-1.jpg"
             
             alt="Mike Burdge"
             role="presentation"
@@ -994,7 +1019,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/lauree-ostrofsky-1.jpg"
+            src="http://localhost:4000/assets/img/lauree-ostrofsky-1.jpg"
             
             alt="Lauree Ostrofsky"
             role="presentation"
@@ -1035,7 +1060,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/brad-teasdale-1.jpg"
+            src="http://localhost:4000/assets/img/brad-teasdale-1.jpg"
             
             alt="Brad Teasdale"
             role="presentation"
@@ -1076,7 +1101,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/caroline-crumpacker-1.jpg"
+            src="http://localhost:4000/assets/img/caroline-crumpacker-1.jpg"
             
             alt="Caroline Crumpacker"
             role="presentation"
@@ -1117,7 +1142,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/aaron-weisblatt-1.jpg"
+            src="http://localhost:4000/assets/img/aaron-weisblatt-1.jpg"
             
             alt="Aaron Weisblatt"
             role="presentation"
@@ -1150,7 +1175,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/matt-pond-1.jpg"
+            src="http://localhost:4000/assets/img/matt-pond-1.jpg"
             
             alt="Matt Pond"
             role="presentation"
@@ -1191,7 +1216,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/kortnee-simmons-1.jpg"
+            src="http://localhost:4000/assets/img/kortnee-simmons-1.jpg"
             
             alt="Kortnee Simmons"
             role="presentation"
@@ -1240,7 +1265,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/colony-woodstock-1.jpg"
+            src="http://localhost:4000/assets/img/colony-woodstock-1.jpg"
             
             alt="Neil Howard of the Colony Woodstock"
             role="presentation"
@@ -1281,7 +1306,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/shauna-keating-1.jpg"
+            src="http://localhost:4000/assets/img/shauna-keating-1.jpg"
             
             alt="Shauna Keating"
             role="presentation"
@@ -1322,7 +1347,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/milo-axelrod-1.jpg"
+            src="http://localhost:4000/assets/img/milo-axelrod-1.jpg"
             
             alt="Milo Axelrod"
             role="presentation"
@@ -1363,7 +1388,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/jared-schafer-1.jpg"
+            src="http://localhost:4000/assets/img/jared-schafer-1.jpg"
             
             alt="Jared Schafer"
             role="presentation"
@@ -1404,7 +1429,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/scott-tillitt-1.jpg"
+            src="http://localhost:4000/assets/img/scott-tillitt-1.jpg"
             
             alt="Scott Tillitt"
             role="presentation"
@@ -1437,7 +1462,7 @@
           >
           <img
             
-            src="https://main--creativehudsonvalley.netlify.app/assets/img/tyler-walker-1.jpg"
+            src="http://localhost:4000/assets/img/tyler-walker-1.jpg"
             
             alt="Tyler Walker"
             role="presentation"
@@ -1482,7 +1507,7 @@
         <div class="flex-col hidden lg:flex">
           <div>
             <a
-              href="https://main--creativehudsonvalley.netlify.app"
+              href="http://localhost:4000"
               class="italic mr-2 font-serif text-3xl text-stone-700 leading-none inline-block"
               >Creative <span class="font-bold">Hudson Valley</span></a
             >
@@ -1498,15 +1523,15 @@
       </div>
 
       <div class="flex flex-col gap-4 lg:w-2/5">
-        <a href="https://connecthv.com" class="flex flex-row md:items-center">
+        <a href="https://connecthv.com" class="flex flex-row group">
           <div
-            class="w-8 h-8 md:w-20 md:h-20 md:rounded-xl md:bg-teal-100 text-teal-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
+            class="w-8 h-8 md:w-12 md:h-12 md:rounded-xl md:bg-teal-100 text-teal-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="currentColor"
-              class="w-8 h-8 md:w-10 md:h-10"
+              class="w-8 h-8"
             >
               <path
                 fill-rule="evenodd"
@@ -1516,8 +1541,21 @@
             </svg>
           </div>
           <div class="flex flex-col w-full">
-            <span class="font-serif text-2xl text-stone-800 italic flex"
+            <span
+              class="font-serif text-2xl my-2 text-stone-800 italic flex items-center"
               >Connect<span class="font-bold">HV</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                class="w-5 h-5 ml-1 text-stone-400 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                  clip-rule="evenodd"
+                />
+              </svg>
             </span>
             <p class="text-stone-600">
               Homegrown online directory of Hudson Valley creatives, makers, and
@@ -1530,16 +1568,16 @@
 
         <a
           href="https://digitalterroir.org"
-          class="flex flex-row md:items-center"
+          class="flex flex-row md:items-start group"
         >
           <div
-            class="w-8 h-8 md:w-20 md:h-20 md:rounded-xl md:bg-rose-100 text-rose-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
+            class="w-8 h-8 md:w-12 md:h-12 md:rounded-xl md:bg-rose-100 text-rose-600 flex-grow flex-shrink-0 mr-4 flex items-center justify-center"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="currentColor"
-              class="w-8 h-8 md:w-10 md:h-10"
+              class="w-8 h-8"
             >
               <path
                 fill-rule="evenodd"
@@ -1552,9 +1590,21 @@
             </svg>
           </div>
           <div class="flex flex-col w-full">
-            <span class="font-serif text-2xl text-stone-800 italic"
-              >Digital <span class="font-bold">Terroir</span></span
-            >
+            <span
+              class="font-serif text-2xl text-stone-800 my-2 italic items-center flex"
+              >Digital <span class="ml-[0.5ch] font-bold">Terroir</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 20 20"
+                fill="currentColor"
+                class="w-5 h-5 ml-1 text-stone-400 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+              >
+                <path
+                  fill-rule="evenodd"
+                  d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
+                  clip-rule="evenodd"
+                /></svg
+            ></span>
             <p class="text-stone-600">
               Newsletter exploring the intersection of software, culture, and
               the Hudson Valley.

@@ -27,4 +27,27 @@
   />
 
   <link href="{{ site.url }}/assets/css/style.css" rel="stylesheet" />
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS
+  Feed" href="{{ "/feed.xml" | relative_url }}" />
+
+  <link
+    rel="icon"
+    href="{{ site.url }}/assets/img/favicon.png"
+    type="image/x-icon"
+  />
+
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="website" />
+  {% if page.hero %}
+  <meta
+    property="og:image"
+    content="{{ site.url }}/assets/img/{{ page.hero }}"
+  />
+  {% else %}
+  <meta
+    property="og:image"
+    content="{{site.url}}/assets/img/{{ page.title | slugify }}-1.jpg"
+  />
+  {% endif %}
 </head>

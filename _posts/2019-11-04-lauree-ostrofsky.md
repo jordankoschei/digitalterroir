@@ -1,7 +1,7 @@
 ---
 title: "Lauree Ostrofsky"
 date: 2019-11-04
-description:
+description: Interview with Lauree Ostrofsky, a Hudson Valley-based author, speaker, and business coach, discussing her work and local experiences.
 hero_attribution:
 hero:
 town: Kingston

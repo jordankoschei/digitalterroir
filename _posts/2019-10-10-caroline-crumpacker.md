@@ -1,7 +1,7 @@
 ---
 title: "Caroline Crumpacker"
 date: 2019-10-10
-description:
+description: "Interview with Caroline Crumpacker, Executive Director of Opus 40, a landmark in the Hudson Valley."
 hero_attribution:
 hero:
 town: Saugerties

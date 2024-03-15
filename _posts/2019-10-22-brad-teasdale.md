@@ -1,7 +1,7 @@
 ---
 title: "Brad Teasdale"
 date: 2019-10-22
-description:
+description: "Interview with Hudson Valley artist Brad Teasdale, discussing his unique furniture designs using local driftwood and concrete."
 hero_attribution:
 hero:
 hero_position: object-center

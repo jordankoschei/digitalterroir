@@ -1,7 +1,7 @@
 ---
 title: "Bryan Meador"
 date: 2020-04-27
-description:
+description: "Interview with Bryan Meador, Hudson Valley-based founder of sustainability-focused design firm Plant Seads."
 hero_attribution: Portrait by Justin Bettman
 hero:
 town: Kingston
