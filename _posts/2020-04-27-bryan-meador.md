@@ -68,7 +68,7 @@ Being surrounded by nature is hugely inspiring, and fuels my creativity daily, s
 
 ## What’s surprised you most about living and working in the Hudson Valley?
 
-The amount of resources available and the willingness of people to help has been mind-blowing. For example, we have worked extensively with the [Hudson Valley Additive Manufacturing Center at SUNY New Paltz](https://www.newpaltz.edu/hvamc/) during our prototyping process. [Dan Freedman](https://www.newpaltz.edu/ocm/admins/daniel-freedman/) and his team over there are incredibly knowledgeable and have some of the most advanced additive manufacturing equipment on the east coast. Having access to this technology enabled us to develop a product quickly by using rapid prototyping and an iterative design process that helps us learn fast and keep our process lean and agile.
+The amount of resources available and the willingness of people to help has been mind-blowing. For example, we have worked extensively with the [Hudson Valley Additive Manufacturing Center at SUNY New Paltz](https://www.newpaltz.edu/hvamc/) during our prototyping process. Dan Freedman and his team over there are incredibly knowledgeable and have some of the most advanced additive manufacturing equipment on the east coast. Having access to this technology enabled us to develop a product quickly by using rapid prototyping and an iterative design process that helps us learn fast and keep our process lean and agile.
 
 {% include image.html src="bryan-meador-7.jpg" alt="Bryan Meador" %}
 

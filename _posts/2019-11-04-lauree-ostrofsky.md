@@ -43,7 +43,7 @@ Hudson Valley Women in Business hosts weekly and monthly coffees around the area
 
 - [Local Artisan Bakery](https://www.localartisanbakery.com/) (Kingston)
 
-- [Poughkeepsie Underwear Factory](https://hudsonriverhousing.org/what-we-do/strengthen-communities/poughkeepsie-underwear-factory/) (Poughkeepsie)
+- Poughkeepsie Underwear Factory (Poughkeepsie)
 
 - [Oak Vino Wine Bar](http://www.oakvino.com/) (Beacon)
 

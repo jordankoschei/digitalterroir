@@ -33,7 +33,7 @@ His benches and tables are a fusion of driftwood and concrete, all sourced local
 
 {% include image.html src="brad-teasdale-2.jpg" alt="Brad Teasdale" caption="📸 by Andrea F. Pagliaia / <a href='https://www.yougetanaplus.com/'>You Get an A Plus</a>" %}
 
-I first became aware of Brad’s work from a piece in [Hudson Valley Magazine](http://www.hvmag.com/Bradford-Teasdale-Design-Studio-Garrison/). After corresponding via email, I drove down Route 9D from Beacon to Garrison to see his work in person and visit his studio, a workshop set back in the woods alongside his home and within earshot of a forest waterfall.
+I first became aware of Brad’s work from a piece in [Hudson Valley Magazine](https://hvmag.com/home-real-estate/teasdale-design-studio/). After corresponding via email, I drove down Route 9D from Beacon to Garrison to see his work in person and visit his studio, a workshop set back in the woods alongside his home and within earshot of a forest waterfall.
 
 We walked behind the workshop to a porch covered with massive pieces of driftwood, slowly drying out for eventual use.
 

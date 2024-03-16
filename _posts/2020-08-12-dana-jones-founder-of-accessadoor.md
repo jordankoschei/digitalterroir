@@ -43,7 +43,7 @@ From there I normally try to wrap up whatever tasks I have to do by 5pm so I can
 
 ## Do you have a go-to coffee or beer order, and from where?
 
-I like trying different things when I go out so I don’t really have a go-to order, but I love going to [Cafe 40 & Co.](https://www.cafe40co.com/) for meetings or [King’s Court Brewing](https://www.kingscourtbrewingcompany.com/) in the City of Poughkeepsie to unwind and catch up with the locals.
+I like trying different things when I go out so I don’t really have a go-to order, but I love going to Cafe 40 & Co. for meetings or [King’s Court Brewing](https://www.kingscourtbrewingcompany.com/) in the City of Poughkeepsie to unwind and catch up with the locals.
 
 ## Where do you do your best creative work?
 
@@ -71,7 +71,7 @@ There are many reasons why establishments should emphasize accessibility and mak
 
 ## Are you part of any local groups or communities you’d like to mention?
 
-I serve as a [Think Dutchess Ambassador](https://thinkdutchess.com/digital-ambassadors/meet-our-ambassadors/)!
+I serve as a [Think Dutchess Ambassador](https://www.thinkdutchess.com/blog/2020/05/29/think-dutchess-news/think-dutchess-digital-ambassador-dana-jones/)!
 
 ## Anything you want to plug or promote?
 

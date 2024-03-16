@@ -72,7 +72,7 @@ It’s been really fun! I’ve become less of a city girl over time.
 
 Room at the 2019 Kingston Design Showhouse designed by [foley&cox](http://www.foleyandcox.com/). Photographed by [Rikki Snyder](https://rikkisnyder.com/).## Where are some of your favorite places in the Hudson Valley to visit?
 
-Last summer I went to [Opus 40](http://creativehv.test/caroline-crumpacker/) for the first time, which was amazing. And I’m surprised — it’s literally right down the street from me, and I’d never been!
+Last summer I went to [Opus 40]({{ site.url}}/caroline-crumpacker/) for the first time, which was amazing. And I’m surprised — it’s literally right down the street from me, and I’d never been!
 
 {% include image.html src="maryline-damour-8.jpg" alt="Maryline Damour" %}
 
