@@ -63,7 +63,7 @@ It took months to create a prosthetic device for a growing child, and it cost $8
 
 After I met her, I started making another arm that was a more prosthetic-centered design — it’s the left arm on that skeleton, with the glove on it. It’s more ergonomic, more organic-looking. This was my entry into muscle control and brainwave systems. I started using EEG headsets and sensors to control the device, and started increasing functionality across the board. That hand actually shook hands with President Obama at the White House science fair. It was a really amazing moment.
 
-{% include image.html src="easton-lachappelle-6.jpg" alt="Easton LaChappelle" %}
+{% include image.html src="easton-lachappelle-6.png" alt="Easton LaChappelle" %}
 
 That was my first taste of bigger systems design. This is around 2013, when Unlimited Tomorrow was being formed. Media started exploding — there was the White House science fair, I was doing an internship at NASA, I was traveling around doing keynotes. It was the craziest year of my life. I was around 17. I was invited to give a TEDx talk in Denver and Tony Robbins, who became our founding investor and partner, saw that and gave me a call one day, saying: “I can’t believe you’re still working out of your bedroom at your parents’ house. I need to help you take this to the next level.” He provided startup capital and some guidance and mentorship to help make that happen.
 

@@ -70,7 +70,7 @@ Right. I also love the views from [Mount Beacon](https://www.scenichudson.org/ex
 
 I also love [Falling Waters](https://www.scenichudson.org/explore-the-valley/scenic-hudson-parks/falling-waters-preserve/) in Saugerties, which is spectacular.
 
-{% include image.html src="ned-sullivan-of-scenic-hudson-6.jpg" alt="Ned Sullivan of Scenic Hudson" caption="Photo by <a href='https://www.devinpickering.net/'>Devin Pickering</a>" %}
+{% include image.html src="ned-sullivan-of-scenic-hudson-6.png" alt="Ned Sullivan of Scenic Hudson" caption="Photo by <a href='https://www.devinpickering.net/'>Devin Pickering</a>" %}
 
 ## What does a typical day look like for you?
 

@@ -17,7 +17,7 @@ links:
 
 Story Screen’s physical location is an extension of the pop-up theater experience that founder Mike Burdge had been running — first in an apartment, then in stores and restaurants throughout Beacon. In addition to running the theater’s programming, Mike is also the editor-in-chief of the Story Screen website, which features articles, reviews, and a podcast.
 
-{% include image.html src="mike-burdge-2.jpg" alt="Mike Burdge" %}
+{% include image.html src="mike-burdge-2.png" alt="Mike Burdge" %}
 
 The theater doesn’t feel like a corporate chain theater, but retains its natural Beacon flavor. Concessions include local favorites like [More Good](https://drinkmoregood.com/) syrups and [Hudson Valley Marshmallow Company](http://www.hvmag.com/Hudson-Valley-Marshmallow-Company-Smores-Beacon/) marshmallows. Much of the art on the walls was created by artists with local connections, including [Evan Cohen](http://www.evanmcohen.com/), who designed the cans for Hudson Valley Brewery.
 
@@ -33,7 +33,7 @@ While this primarily takes up most of my time on a day-to-day basis, whenever I 
 
 Story Screen really got started when my love for film transformed from a desire to understand and create into one of exhibiting and discussing. Nowadays it’s insanely easy to have equipment to make film, but one of the hardest parts is getting a crew and money together in order to really create something that meet expectations. While I still write and edit, and have plans to eventually start up a production company of my own, I’ve found that showing films and critiquing them with friends and strangers is helping me to understand my relationship with film in a much more unique way than attending film school and learning film history did.
 
-{% include image.html src="mike-burdge-3.jpg" alt="Mike Burdge" %}
+{% include image.html src="mike-burdge-3.png" alt="Mike Burdge" %}
 
 ## How did you discover the Hudson Valley?
 

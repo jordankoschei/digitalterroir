@@ -74,7 +74,7 @@ Working from the Hudson Valley has some accessibility issues. It’s difficult t
 
 Continued development and innovation. The Hudson Valley is ripe for innovation and industry. I’d like to see the Hudson Valley attract entrepreneurs and innovators who solve problems and create opportunities for their local and national communities.
 
-{% include image.html src="jimmy-decicco-5.jpg" alt="Jimmy DeCicco of Super Coffee" caption="Jordan (KHS ‘13), Jake (KHS ‘12), and Jimmy (KHS ‘11) give the commencement speech at the 2018 Kingston High School graduation at Dietz Stadium" %}
+{% include image.html src="jimmy-decicco-5.png" alt="Jimmy DeCicco of Super Coffee" caption="Jordan (KHS ‘13), Jake (KHS ‘12), and Jimmy (KHS ‘11) give the commencement speech at the 2018 Kingston High School graduation at Dietz Stadium" %}
 
 ## Are you part of any local groups or communities you’d like to mention?
 

@@ -56,7 +56,7 @@ When my day job ends, I switch over to either freelance mode, or recently, to wo
 
 The rest of my day is your typical dad stuff. Sometimes there’s time for movies or video games, but that’s pretty rare during the week.
 
-{% include image.html src="jared-schafer-5.jpg" alt="Jared Schafer" %}
+{% include image.html src="jared-schafer-5.png" alt="Jared Schafer" %}
 
 ## Where are your favorite places to spend time in the Hudson Valley?
 
@@ -74,7 +74,7 @@ An IPA, on a patio, preferably on the Hudson, like at [Billy Joe’s Ribworks](h
 
 My office. That might seem a bit on the nose, but it really is. I’ve surrounded myself with what inspires me, whether it’s art on the walls or books by my idols. And being that I’m doing a lot of animation, I’m tethered by the need for a powerful desktop, as opposed to more mobile remote designers who can work on laptops.
 
-{% include image.html src="jared-schafer-7.jpg" alt="Jared Schafer" caption="Jared Schafer’s home office in Fishkill." %}
+{% include image.html src="jared-schafer-7.png" alt="Jared Schafer" caption="Jared Schafer’s home office in Fishkill." %}
 
 ## How has the Hudson Valley influenced or impacted your creative work?
 
