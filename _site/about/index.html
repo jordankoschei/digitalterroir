@@ -47,6 +47,30 @@
     content="http://localhost:4000/assets/img/about-1.jpg"
   />
   
+
+  <!-- MailerLite Universal -->
+  <script>
+    (function (w, d, e, u, f, l, n) {
+      (w[f] =
+        w[f] ||
+        function () {
+          (w[f].q = w[f].q || []).push(arguments);
+        }),
+        (l = d.createElement(e)),
+        (l.async = 1),
+        (l.src = u),
+        (n = d.getElementsByTagName(e)[0]),
+        n.parentNode.insertBefore(l, n);
+    })(
+      window,
+      document,
+      "script",
+      "https://assets.mailerlite.com/js/universal.js",
+      "ml"
+    );
+    ml("account", "863037");
+  </script>
+  <!-- End MailerLite Universal -->
 </head>
 
 
@@ -180,7 +204,14 @@
       </article>
     </div>
 
-    <footer class="w-full bg-white">
+    <button
+  class="ml-onclick-form fixed right-5 bottom-5 bg-teal-500 px-4 py-3 rounded-full text-white shadow-xl text-lg z-50"
+  onclick="ml('show', '3cHUkE', true)"
+>
+  Subscribe
+</button>
+
+<footer class="w-full bg-white">
   <div class="p-8 flex justify-center">
     <div
       class="max-w-[90rem] px-6 w-full flex flex-col lg:flex-row gap-3 justify-between items-start"

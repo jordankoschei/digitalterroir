@@ -88,7 +88,7 @@ Exactly. In the city it’s easier to find people and meet them, but people are 
 
 {% include image.html src="maryline-damour-9.jpg" alt="Maryline Damour" %}
 
-Home office in the 2019 Kingston Design Showhouse designed by [Alexandra Studios](https://www.thealexandrastudios.com/). Photographed by [Rikki Snyder](https://rikkisnyder.com/).## How did you get the idea to start the showhouse?
+Home office in the 2019 Kingston Design Showhouse designed by [Alexandra Studios](https://alexandra-studio.com/). Photographed by [Rikki Snyder](https://rikkisnyder.com/).## How did you get the idea to start the showhouse?
 
 When I moved up here, I partnered with a construction company. My partner Fred Drake has been building houses up here for about twenty years, and I brought the interior design part of the business into his practice. After three years, I realized there was a huge difference between getting construction work and getting interior design work. He’s never advertised because he’s well-established and everyone in the construction community knows each other and works together. After three years on the interior design side, I still had a really hard time meeting other designers and meeting makers, and I decided I needed to try to do something more specific to get our name out there as designers as well as builders.
 

@@ -29,7 +29,7 @@ I am very passionate about the project overall — from writing, to recording, t
 
 I went to college in New Paltz. I discovered New Paltz by chance, really. When I visited for the first time, something about the mountains in the background and the narrow main street that takes you through the bustling town, reminded me of the town I grew up in — Port Antonio, Jamaica.
 
-{% include image.html src="neenee-rushie-of-the-big-takeover-2.jpg" alt="NeeNee Rushie of The Big Takeover" caption="NeeNee and The Big Takeover at <a href='https://mountainjam.com/'>Mountain Jam</a>. Photo © Matthew Conde" %}
+{% include image.html src="neenee-rushie-of-the-big-takeover-2.jpg" alt="NeeNee Rushie of The Big Takeover" caption="NeeNee and The Big Takeover at <a href='http://www.mountainjam.com/'>Mountain Jam</a>. Photo © Matthew Conde" %}
 
 ## Walk us through a typical day.
 

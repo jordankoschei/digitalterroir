@@ -17,7 +17,7 @@ links:
 
 {% include image.html src="milo-axelrod-1.jpg" alt="Milo Axelrod" %}
 
-In addition to their work as a designer at [Moonfarmer](https://moonfarmer.com/), the well-known Kingston-based digital studio, Milo also hosts _[Describing a Rock](https://anchor.fm/miloaxelrod)_, a podcast that’s been featured in iTunes New & Noteworthy, Google Play Music, and [Chronogram](https://www.chronogram.com/hudsonvalley/6-hudson-valley-podcasts-you-should-be-listening-to/Content?oid=6610600).
+In addition to their work as a designer at Moonfarmer, the well-known Kingston-based digital studio, Milo also hosts _[Describing a Rock](https://anchor.fm/miloaxelrod)_, a podcast that’s been featured in iTunes New & Noteworthy, Google Play Music, and [Chronogram](https://www.chronogram.com/hudsonvalley/6-hudson-valley-podcasts-you-should-be-listening-to/Content?oid=6610600).
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?
 
@@ -25,7 +25,7 @@ Hi, I’m Milo! I’m a user experience designer, a regular face of Main Street 
 
 All of my favorite things stem from my two great loves: 1) making things and 2) fiction. I’m always creating something, whether it’s art, furniture, music, or systems to streamline aspects of my life. It’s what I spend about 40% of my brainpower on.  Another 45% goes towards my work as a designer, and the last 15% is spent being totally immersed in fiction, usually sci-fi and fantasy books and the occasional TV show or movie. (My brain sometimes does A Lot, so it’s good to escape for awhile and be someone else. When I come back to myself, I have some new perspective and clarity, and usually some more good ideas for the things I’m making.)
 
-I work at [Moonfarmer](https://moonfarmer.com/), a super cool web and app development studio located in Uptown Kingston. It’s a midsize team of very cool, very talented people that I love working with. Before I worked there, I ran a successful freelancing business doing a whole assortment of design work, from web design to presentation design to branding. I really, really like what I do.
+I work at Moonfarmer, a super cool web and app development studio located in Uptown Kingston. It’s a midsize team of very cool, very talented people that I love working with. Before I worked there, I ran a successful freelancing business doing a whole assortment of design work, from web design to presentation design to branding. I really, really like what I do.
 
 {% include image.html src="milo-axelrod-2.jpg" alt="Milo Axelrod" %}
 

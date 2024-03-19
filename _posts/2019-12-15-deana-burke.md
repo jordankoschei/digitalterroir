@@ -27,13 +27,13 @@ She’s also a partner at the coworking space CO in Rhinebeck and a startup advi
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?
 
-Hi! I’m the founder of a crypto startup called [Gracias](https://getgracias.com/). Gracias is a mission-driven company, working to drive Bitcoin adoption amongst young women and teens from diverse backgrounds. I’m passionate about bringing Bitcoin education to people in underserved communities, so that they understand the characteristics of this new, evolving economy and the choices they have about their money. Ultimately I’m driven by financial empowerment, and I see crypto as a direct path for many people to achieve that.
+Hi! I’m the founder of a crypto startup called Gracias. Gracias is a mission-driven company, working to drive Bitcoin adoption amongst young women and teens from diverse backgrounds. I’m passionate about bringing Bitcoin education to people in underserved communities, so that they understand the characteristics of this new, evolving economy and the choices they have about their money. Ultimately I’m driven by financial empowerment, and I see crypto as a direct path for many people to achieve that.
 
-Other projects that I’m involved with include [CO](https://www.coworkwith.co/), a co-working and events space in Rhinebeck. I’m an advisor to a female-founded travel startup called [Allcall](http://allcall.co/). I truly love helping other founders navigate the rough terrains of starting a company and launching a product, and helping female founders is particularly rewarding. I’m also an advisor to [Hempire State Growers](https://hempirestategrowers.com/), a Hudson Valley collective of hemp farmers.
+Other projects that I’m involved with include [CO](https://www.coworkwith.co/), a co-working and events space in Rhinebeck. I’m an advisor to a female-founded travel startup called [Allcall](http://allcall.co/). I truly love helping other founders navigate the rough terrains of starting a company and launching a product, and helping female founders is particularly rewarding. I’m also an advisor to [Hempire State Growers](https://www.hsgcbd.com/), a Hudson Valley collective of hemp farmers.
 
 Besides these things, I love doing hot yoga, going on low-key hikes with my 3-year-old son, and eating at diners all over the Hudson Valley.
 
-{% include image.html src="deana-burke-2.jpg" alt="Deana Burke" caption="Gracias, as seen in the <a href='https://apps.apple.com/us/app/gracias/id1436086066?ls=1'>iOS App Store</a>. A new version is coming in early 2020." %}
+{% include image.html src="deana-burke-2.jpg" alt="Deana Burke" caption="Gracias, as seen in the iOS App Store. A new version is coming in early 2020." %}
 
 ## How did you discover the Hudson Valley?
 
@@ -101,6 +101,6 @@ I’ve started co-hosting a monthly Games Night at CO! I recently learned Settle
 
 - 💻 [CO](https://www.facebook.com/coworkwithco/) – coworking and event space in Rhinebeck
 
-- 📱 [Gracias](https://try.getgracias.com/index.html) – Bitcoin for beginners (be sure to check out supermoney! Our podcast for Bitcoin beginners, launching soon)
+- 📱 Gracias – Bitcoin for beginners (be sure to check out supermoney! Our podcast for Bitcoin beginners, launching soon)
 
-- 🗺️ [Allcall](https://beta.allcalltravel.com/) – curated travel itineraries
+- 🗺️ [Allcall](https://allcalltravel.com/) – curated travel itineraries

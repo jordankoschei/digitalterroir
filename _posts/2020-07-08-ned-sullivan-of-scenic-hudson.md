@@ -70,7 +70,7 @@ Right. I also love the views from [Mount Beacon](https://www.scenichudson.org/ex
 
 I also love [Falling Waters](https://www.scenichudson.org/explore-the-valley/scenic-hudson-parks/falling-waters-preserve/) in Saugerties, which is spectacular.
 
-{% include image.html src="ned-sullivan-of-scenic-hudson-6.png" alt="Ned Sullivan of Scenic Hudson" caption="Photo by <a href='https://www.devinpickering.net/'>Devin Pickering</a>" %}
+{% include image.html src="ned-sullivan-of-scenic-hudson-6.webp" alt="Ned Sullivan of Scenic Hudson" caption="Photo by <a href='https://www.devinpickering.net/'>Devin Pickering</a>" %}
 
 ## What does a typical day look like for you?
 
@@ -108,6 +108,4 @@ I love dark beers, and so [Keegan Ales](https://www.keeganales.com/) over in Ki
 
 [Obercreek Brewing](https://obercreekbrewing.com/) is down in Hughsonville in Southern Dutchess County, and is run by a member of our board, Alex Reese, whose mother Franny Reese was one of Scenic Hudson’s founders.
 
-I also wanted to mention that my daughter, Annie Sullivan, is now the owner of a juice bar in the town of Red Hook. It’s called [Nourish](http://nourishjbonlineorder.com), and they make fresh, healthy, cold-pressed juices. It’s on East Market Street in Red Hook. You can see their website here: <https://www.nourishjuiceredhook.com/>
-
-[Nourish Juice Bar](https://www.google.com/maps/search/?api=1&query=41.994872,-73.875251)
+I also wanted to mention that my daughter, Annie Sullivan, is now the owner of a juice bar in the town of Red Hook. It’s called [Bliss Juice Bar](https://blissredhook.com/), and they make fresh, healthy, cold-pressed juices. It’s on East Market Street in Red Hook. You can see their website here: <https://blissredhook.com/>

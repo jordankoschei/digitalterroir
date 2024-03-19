@@ -32,7 +32,7 @@ Hello to you! Well, I am a Gemini, with Gemini rising. So that apparently makes 
 
 I am a poet with [a book (Belladonna\*)](http://www.belladonnaseries.org/astrobolism/) and 3 chapbooks. I have been a poetry editor at [Fence Magazine](https://www.fenceportal.org/) and am now a Collaborative member with [Belladonna\*](http://www.belladonnaseries.org/). I am also an editor for [Matters of Feminist Practice](http://www.belladonnaseries.org/matters/), a journal of feminist essays and ideas that is launching this Fall. I enjoy, or in fact love, all of that.
 
-I also garden — passionately if also a bit haphazardly (Gemini) — and love to cook, especially when I am using my garden as inspiration. I have done a fair amount of political work, most recently on [Antonio Delgado](https://delgado.house.gov/)’s campaign (go Delgado!) Finally, I have a husband, daughter, canine, tortoise and some remarkable friends, all of whom mean the world to me.
+I also garden — passionately if also a bit haphazardly (Gemini) — and love to cook, especially when I am using my garden as inspiration. I have done a fair amount of political work, most recently on Antonio Delgado’s campaign (go Delgado!) Finally, I have a husband, daughter, canine, tortoise and some remarkable friends, all of whom mean the world to me.
 
 ## How did you get involved with Opus 40?
 
@@ -86,7 +86,7 @@ Readings at Bard, [Volume/Spotty Dog](https://www.thespottydog.com/events/all-ev
 
 So many great bookstores — [Inquiring Minds](https://www.inquiringbooks.com/), [Half Moon Books](https://halfmoonusedbooks.com/), [Our Bookshop](https://www.our-bookshop.com/), [Spotty Dog Books & Ale](https://www.thespottydog.com/), [Rough Draft](https://www.roughdraftny.com/)…
 
-[Rainbow Yoga](https://www.rainbowbodyyogastudio.com/) in Red Hook and [Whole Sky Yoga](https://wholeskyyoga.com/) in Stone Ridge, [Upstate Films](https://upstatefilms.org/), [Mercato](https://www.mercatoredhook.com/) in Red Hook, [Stockade Tavern](http://www.stockadetavern.com/) in Kingston, [HiLo](https://www.hilocatskill.com/) in Catskill, [Gigi’s](https://www.gigihudsonvalley.com/trattoria.html)… lots of places, actually.
+[Rainbow Yoga](https://www.rainbowbodyyogastudio.com/) in Red Hook and [Whole Sky Yoga](https://wholeskyyoga.com/) in Stone Ridge, [Upstate Films](https://upstatefilms.org/), Mercato in Red Hook, [Stockade Tavern](http://www.stockadetavern.com/) in Kingston, [HiLo](https://www.hilocatskill.com/) in Catskill, [Gigi’s](https://www.gigihudsonvalley.com/trattoria.html)… lots of places, actually.
 
 {% include image.html src="caroline-crumpacker-6.jpg" alt="Caroline Crumpacker" %}
 

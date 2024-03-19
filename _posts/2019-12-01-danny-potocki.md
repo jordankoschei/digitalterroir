@@ -31,7 +31,7 @@ _You can see Danny talk about Accel7 on Cheddar’s_ Opening Bell _in this video
 
 My wife, Kimberly, and I recently moved to the Kingston area in Ulster County, where she was raised, and where we will raise our family.
 
-As Managing Director of [Accel7](https://www.accel7.org/), an early-stage accelerator training and advising technology entrepreneurs to launch impact-driven businesses, I am passionate about investing in and educating founders and creatives who want to make a difference in the Greater Hudson Valley region. We want to bring the best minds here to solve big challenges for the world.
+As Managing Director of Accel7, an early-stage accelerator training and advising technology entrepreneurs to launch impact-driven businesses, I am passionate about investing in and educating founders and creatives who want to make a difference in the Greater Hudson Valley region. We want to bring the best minds here to solve big challenges for the world.
 
 I am obsessed with figuring out how to launch and grow companies that will reshape how we live in our communities. I teach entrepreneurship as an adjunct at my alma mater, [Iona College](https://www.iona.edu/home.aspx), too, working with undergraduate and graduate students to spark ideas and business models, and have worked with the [Hudson Valley Venture Hub](https://www.newpaltz.edu/schoolofbusiness/hvventurehub/) at SUNY New Paltz to bring leaders together to support startup companies.
 
@@ -146,4 +146,4 @@ The [Hudson Valley Venture Hub](https://www.newpaltz.edu/schoolofbusiness/hvvent
 
 ## Anything you want to plug or promote?
 
-Founders can apply to our Accel7 Spring 2020 Founder cohort starting in October 2019. Visit our website at [accel7.org](https://www.accel7.org/) to apply. Also, watch out for our launch of the Accel7 Entrepreneur Bootcamp program in the Hudson Valley. We will be looking for at least 10 founders and business owners to help launch and grow new businesses.
+Founders can apply to our Accel7 Spring 2020 Founder cohort starting in October 2019. Visit our website at accel7.org to apply. Also, watch out for our launch of the Accel7 Entrepreneur Bootcamp program in the Hudson Valley. We will be looking for at least 10 founders and business owners to help launch and grow new businesses.

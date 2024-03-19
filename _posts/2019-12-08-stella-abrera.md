@@ -111,4 +111,4 @@ Right after that, I have a program called Pro Studio, and it’s a coaching and 
 
 {% include image.html src="stella-abrera-9.jpg" alt="Stella Abrera" %}
 
-_For more information about Kaatsbaan, visit their [website](https://kaatsbaan.org/) and check out the [performance calendar](https://kaatsbaan.org/performances). You can also subscribe to the [Kaatsbaan mailing list](https://visitor.r20.constantcontact.com/manage/optin?v=001scEtpxc1QE0kKbB9uiv7SP12wkLKrdi22aBO9OS2DMZYN3JbBST5wQOe9juY8xVtOT4o0PSc41xroTNDVqMUPqeAtOhGLxTUudo4akxjFEVdCYqEJnxjAcT8qVhmxwRm4E0XwrPU3Q_ayIjNXnz_IpoqCJbkpQmjlzgieeMgzR0%3D) for continued updates._
+_For more information about Kaatsbaan, visit their [website](https://kaatsbaan.org/). You can also subscribe to the [Kaatsbaan mailing list](https://visitor.r20.constantcontact.com/manage/optin?v=001scEtpxc1QE0kKbB9uiv7SP12wkLKrdi22aBO9OS2DMZYN3JbBST5wQOe9juY8xVtOT4o0PSc41xroTNDVqMUPqeAtOhGLxTUudo4akxjFEVdCYqEJnxjAcT8qVhmxwRm4E0XwrPU3Q_ayIjNXnz_IpoqCJbkpQmjlzgieeMgzR0%3D) for continued updates._

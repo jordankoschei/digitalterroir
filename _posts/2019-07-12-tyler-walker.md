@@ -130,7 +130,7 @@ Despite his game, music work was slow, so I cracked iOS tutorials. When I got st
 
 Just as I was getting my teeth cut, Chris got some contract work that fit well with what I had just learned. I put my game idea on hold (I won’t finish it. I now think it’s a fairly bad idea) and dove in. I fell in love with development immediately. It was pure convergence. The app had a list of things it was supposed to do, and that’s what I made it do. No more, “It’s a little too Egyptian Reggae, if you know what I mean.” I do not! I’ve been doing iOS development full-time ever since. I’ve still taken music projects, but I’ve not done a single thing that didn’t seem awesome, and that’s the perfect situation.
 
-Currently, I’m working on a project called [Gracias](https://getgracias.com/), a social app that makes it easy to share Bitcoin with friends.
+Currently, I’m working on a project called Gracias, a social app that makes it easy to share Bitcoin with friends.
 
 ## If you weren’t a composer and app developer, what would you do?
 

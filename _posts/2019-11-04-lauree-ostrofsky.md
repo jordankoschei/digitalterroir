@@ -41,17 +41,17 @@ Hudson Valley Women in Business hosts weekly and monthly coffees around the area
 
 - [Outdated Cafe](http://www.outdatedcafe.com/) (Kingston)
 
-- [Local Artisan Bakery](https://www.localartisanbakery.com/) (Kingston)
+- Local Artisan Bakery (Kingston)
 
 - Poughkeepsie Underwear Factory (Poughkeepsie)
 
-- [Oak Vino Wine Bar](http://www.oakvino.com/) (Beacon)
+- Oak Vino Wine Bar (Beacon)
 
 - [Beacon Pantry](http://beaconpantry.com/) (Beacon)
 
 - [The Cascades](https://thecascadeshudson.com/) (Hudson)
 
-- [Pawling Bread Co.](https://www.pawlingbreadco.com/) (Pawling)
+- Pawling Bread Co. (Pawling)
 
 - [Mudd Puddle](http://www.muddpuddlecoffee.com/) (New Paltz)
 
@@ -105,7 +105,7 @@ There are so many business communities doing great things locally. When I’m no
 
 - [Women’s Leadership Alliance](https://www.dcrcoc.org/WLA) (part of the [Dutchess County Chamber of Commerce](https://www.dcrcoc.org/))
 
-- [Wisdom of Women](https://www.newpaltzchamber.org/wow.html) with the [New Paltz Chamber](https://www.newpaltzchamber.org/)
+- Wisdom of Women with the New Paltz Chamber
 
 - [Hudson Valley Young Professionals](https://www.dcrcoc.org/HVYP)
 

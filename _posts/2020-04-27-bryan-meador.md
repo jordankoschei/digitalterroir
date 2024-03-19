@@ -40,7 +40,7 @@ The first of these projects is a planter that I’ve designed to fit into chain 
 
 By converting fences and other vertical spaces into gardens, we’re able to make progress on a few important environmental fronts all at once. Vertical gardens absorb excess rainwater, keeping our waterways healthier and less congested during storms. They clean the air of particulate matter and CO2 while releasing oxygen, and they absorb excess sound, making our cities more livable. All while cleaning our environment of single use plastic that would otherwise pollute our communities.
 
-{% include image.html src="bryan-meador-4.png" alt="Bryan Meador" %}
+{% include image.html src="bryan-meador-4.jpg" alt="Bryan Meador" %}
 
 ## How did you discover the Hudson Valley?
 
