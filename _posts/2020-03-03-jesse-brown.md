@@ -16,8 +16,6 @@ links:
     url: https://jhsnowboarder.com/
 ---
 
-{% include image.html src="jesse-brown-1.jpg" alt="Jesse Brown" %}
-
 Jesse Brown is the co-founder of Hudsy, an online video platform that seeks to provide a local, homegrown alternative to streaming services like Netflix. It features stories made in the Hudson Valley, about the Hudson Valley, and is challenging the usual tech playbook with its egalitarian business model.
 
 I met up with Jesse at the [Main Course](https://www.maincoursecatering.com/) in New Paltz, where we sat and talked about his whole story — how he grew up in the Hudson Valley, moved to Jackson Hole and started a now-legendary snowboard magazine, returned to New York after 11 years, and eventually found his true calling right back in the Hudson Valley.

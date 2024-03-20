@@ -20,8 +20,6 @@ links:
     url: https://www.instagram.com/americangargoyles/
 ---
 
-{% include image.html src="neil-cohen-1.jpg" alt="Neil Cohen" %}
-
 If the name _Chief Zabu_ sounds familiar to you and you aren’t a devotee of cult comedies, you’ve probably heard about it on _Mystery Science Theater 3000_. To quote the _New York Times_ article about Zabu:
 
 > The film, completed in 1986 but shelved by the filmmakers after a poorly received preview, will get its first official showing in New York on Thursday night at a comedy club. It’s a fitting premiere for a title that was the subject of a long-running joke on [“Mystery Science Theater 3000,”](https://www.pastemagazine.com/articles/2017/03/20-classic-episodes-of-mst3k-are-returning-to-netf.html) the cult series that made fun of bad movies. Whenever a character in that week’s cheesy film would open a newspaper, the series’s original host, Joel Hodgson, would laconically drawl, “Hey, Zack Norman is Sammy in ‘Chief Zabu.’”

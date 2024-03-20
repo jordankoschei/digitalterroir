@@ -18,8 +18,6 @@ links:
     url: https://music.apple.com/gb/artist/tyler-walker/396736470
 ---
 
-{% include image.html src="tyler-walker-1.jpg" alt="Tyler Walker" %}
-
 In addition to his work with the prominent [improv group](https://improveverywhere.com/) (responsible for events such as the legendary Pantsless Subway Ride and numerous NYC flash mobs), his music has been heard in video games, on TV, and in movies. His most recent standalone albums — _Spacefaring Male_ and _Soup Ascends_ — are two different perspectives on the vague theme of space travel. (_Spacefaring Male_ sounds like retro-futuristic lounge music; _Soup Ascends_ is hazier, ambient, and more electronic).
 
 {% include image.html src="tyler-walker-2.jpg" alt="Tyler Walker" %}

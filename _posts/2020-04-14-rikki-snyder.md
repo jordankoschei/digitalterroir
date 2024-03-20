@@ -16,8 +16,6 @@ links:
     url: https://www.rikkisnyder.com/
 ---
 
-{% include image.html src="rikki-snyder-1.jpg" alt="Rikki Snyder" %}
-
 Beacon-based Rikki Snyder is a well-known food, lifestyle, and interior photographer whose work you may have seen in _Country Living_, _Westchester Home_, and _The New York Times Cooking_; campaigns for Blue Apron, Cape Cod Potato Chips, and Bed, Bath, and Beyond; and books like _The Simple Lunchbox_, _Crafting a Colorful Home_, and _31 Days of Local Food_. She also photographed the second annual Kingston Design Showhouse, featured in the Creative Hudson Valley [interview with Maryline Damour](https://creativehudsonvalley.com/maryline-damour/).
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

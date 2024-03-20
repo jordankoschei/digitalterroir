@@ -15,8 +15,6 @@ links:
     url: https://linktr.ee/miloaxelrod
 ---
 
-{% include image.html src="milo-axelrod-1.jpg" alt="Milo Axelrod" %}
-
 In addition to their work as a designer at Moonfarmer, the well-known Kingston-based digital studio, Milo also hosts _[Describing a Rock](https://anchor.fm/miloaxelrod)_, a podcast that’s been featured in iTunes New & Noteworthy, Google Play Music, and [Chronogram](https://www.chronogram.com/hudsonvalley/6-hudson-valley-podcasts-you-should-be-listening-to/Content?oid=6610600).
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

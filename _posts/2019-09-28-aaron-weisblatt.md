@@ -18,8 +18,6 @@ links:
     url: https://www.imdb.com/name/nm0918732/
 ---
 
-{% include image.html src="aaron-weisblatt-1.jpg" alt="Aaron Weisblatt" %}
-
 Throughout his 25-year career in film and television, he’s worked as an editor, sound editor, cameraman, producer, director, and writer. His 1986 documentary short film _Sam_, about an activist farmer from Walden, was nominated for the Academy Award for Best Documentary Short.
 
 He’s worked with such names as Dustin Hoffman, Sam Rockwell, Joel Schumacher, and Errol Morris; his career has included work on everything from concert movies to commercials to critically-acclaimed documentary miniseries.

@@ -20,8 +20,6 @@ links:
     url: https://www.patreon.com/sweetambs
 ---
 
-{% include image.html src="amber-spiegel-1.jpg" alt="Amber Spiegel" %}
-
 Amber Spiegel has turned her passion and talent for cookie decorating into an online empire. From her studio in Kingston, her stunning creations reach millions of followers and have been featured in publications and websites like Martha Stewart Weddings, InStyle, The Knot TV, The Huffington Post, and Better Homes and Gardens. In 2017, she made the [Forbes list of top influencers](https://www.forbes.com/profile/amber-spiegel/#1c0af9ec4125).
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

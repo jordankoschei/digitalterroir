@@ -28,8 +28,6 @@ links:
     url: https://itunes.apple.com/us/artist/1048326183
 ---
 
-{% include image.html src="natalie-forteza-1.jpg" alt="Natalie Forteza" %}
-
 Produced by three-time Grammy winner [Michael League](https://en.wikipedia.org/wiki/Michael_League) of the band [Snarky Puppy](https://en.wikipedia.org/wiki/Snarky_Puppy), Natalie and her band have performed at venues in the Hudson Valley and beyond, including local staples like [The Falcon](https://www.liveatthefalcon.com/) and Daryl’s House and New York hotspots like [The Iridium](https://www.theiridium.com/) and [Rockwood Music Hall](https://rockwoodmusichall.com/).
 
 {% include image.html src="natalie-forteza-2.jpg" alt="Natalie Forteza" caption="Natalie Forteza performing at <a href='https://rockwoodmusichall.com/'>Rockwood Music Hall.</a> Photo by <a href='http://www.leonardomascaro.com/'>Leonardo Mascaro</a>." %}

@@ -18,8 +18,6 @@ links:
     url: https://www.instagram.com/maryline_damour/
 ---
 
-{% include image.html src="maryline-damour-1.jpg" alt="Maryline Damour" %}
-
 Maryline Damour is a Kingston-based [interior designer](http://www.damourdrake.com/) and the founder of [Kingston Design Connection](https://www.kingstondesignconnection.com/), an organization that hosts the annual Kingston Design Showhouse.
 
 Last year’s iteration of the showhouse — the second annual — brought together 17 interior designers and over 180 artists, makers, and businesses to transform over 16 designed spaces and showcase their work in a way that people can walk through and experience.
@@ -29,8 +27,6 @@ The message is clear: Hudson Valley design is here, in a big way.
 The showhouse was a rousing success, not only attracting numerous visitors and forging connections between local designers and artisans, but also attracting regional and national press attention. Better yet, the project now feels more permanent: Kingston Design Connection has assembled a board of advisors comprised of five internationally-renowned interior designers — superstars in their field — with Hudson Valley connections.
 
 {% include image.html src="maryline-damour-2.jpg" alt="Maryline Damour" %}
-
-Projects by [Maryline Damour / Damour Drake](http://www.damourdrake.com/). Clockwise: apartment renovation in Brooklyn, kitchen gut renovation, front porch design/build and selecting house colors, custom front door design/build, home office design/renovation in Brooklyn.Projects by [Maryline Damour / Damour Drake](http://www.damourdrake.com/). Clockwise: apartment renovation in Brooklyn, kitchen gut renovation, front porch design/build and selecting house colors, custom front door design/build, home office design/renovation in Brooklyn.
 
 ## How do you describe what you do?
 

@@ -17,8 +17,6 @@ links:
     url: https://www.instagram.com/bluehwyflaneur
 ---
 
-{% include image.html src="scott-tillitt-1.jpg" alt="Scott Tillitt" %}
-
 He’s also a founder of several other local organizations, including [Re>Think Local](http://www.rethinklocal.org/) and [Antidote Collective](https://www.antidotecollective.org/), “focused on making Beacon and the Hudson Valley a more vibrant, sustainable, locally-rooted and human-scale place to live and work.”
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

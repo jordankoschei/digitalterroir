@@ -16,8 +16,6 @@ links:
     url: https://opus40.org/
 ---
 
-{% include image.html src="caroline-crumpacker-1.jpg" alt="Caroline Crumpacker" %}
-
 Sculptor and Bard professor Harvey Fite singlehandedly crafted Opus 40 over the course of 37 years, inspired by his time working with Mayan ruins in Honduras. It’s a staggering achievement — the sculpture is more of a labyrinth, covering over 6 acres with an interwoven series of platforms, pedestals, and stone ramps. Fite chose the name “Opus 40” because he believed it would take him 40 years to finish; tragically, he fell to his death while working on the sculpture in 1976, just 3 years short of his projected end date.
 
 Long-time _New Yorker_ writer Brendan Gill once wrote that Opus 40 is “one of the largest and most beguiling works of art on the entire continent.” The sculpture is part of the National Register of Historic Places, and in addition to being a museum and popular tourist destination, it plays host to numerous events and classes throughout the year.

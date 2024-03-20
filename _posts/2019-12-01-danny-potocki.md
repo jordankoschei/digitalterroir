@@ -21,8 +21,6 @@ links:
     url: https://www.newrochelleny.com/
 ---
 
-{% include image.html src="danny-potocki-1.jpg" alt="Danny Potocki" %}
-
 _You can see Danny talk about Accel7 on Cheddar’s_ Opening Bell _in this video segment, “[How Accel7 is Making Mental Health a Priority in the Startup World](https://cheddar.com/media/how-accel-is-making-mental-health-a-priority-in-the-startup-world).”_
 
 {% include image.html src="danny-potocki-2.jpg" alt="Danny Potocki" %}

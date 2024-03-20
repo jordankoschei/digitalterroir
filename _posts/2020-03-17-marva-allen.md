@@ -11,8 +11,6 @@ links:
     url: https://www.wordeee.com/home/wordeee/
 ---
 
-{% include image.html src="marva-allen-1.jpg" alt="Marva Allen" %}
-
 It’s hard to find someone whose career has been as wide-ranging and storied as Marva Allen’s. In addition to being a serial entrepreneur, author, and teacher, Marva has served as a member of numerous distinguished organizations, including the IBM Great Lakes Region Board and the General Motors Diversity Board. She’s rung the closing bell for the New York Stock Exchange, hosted events for Bill Clinton and Maya Angelou, and was president of multi-million dollar technology firm USI.
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

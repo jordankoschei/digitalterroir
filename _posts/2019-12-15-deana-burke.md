@@ -21,8 +21,6 @@ links:
     url: https://www.instagram.com/getgracias/
 ---
 
-{% include image.html src="deana-burke-1.jpg" alt="Deana Burke" %}
-
 She’s also a partner at the coworking space CO in Rhinebeck and a startup advisor working with a handful of female-led and Hudson Valley ventures.
 
 ## Hello! Who are you? Tell us about yourself. What are you passionate about? What do you enjoy doing?

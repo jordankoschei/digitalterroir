@@ -14,8 +14,6 @@ links:
     url: https://www.caitlinn.com/
 ---
 
-{% include image.html src="the-ramsdens-1.jpg" alt="The Ramsdens" %}
-
 Want to take photos like the Ramsdens? Continue reading for a discount code for their recently-released Lightroom presets and upcoming workshops, exclusively for Creative Hudson Valley readers!
 
 {% include image.html src="the-ramsdens-2.jpg" alt="The Ramsdens" %}

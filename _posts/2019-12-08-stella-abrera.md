@@ -23,8 +23,6 @@ links:
     url: https://www.instagram.com/stellaabreradetsky/
 ---
 
-{% include image.html src="stella-abrera-1.jpg" alt="Stella Abrera" %}
-
 I met Stella at Kaatsbaan (pronounced _cahts-bahn_) one morning in late November to learn more about her work and to see the facility for myself.
 
 Kaatsbaan is blessed by geography, occupying a 150-acre former horse farm just a stone’s throw from the Hudson River. It abuts downtown Tivoli, in northern Dutchess County, and was once the place where Eleanor Roosevelt rode her horses. The facility is spread across several buildings, from small studios to a 160-seat theater that matches the footprint of the Metropolitan Opera House.

@@ -23,8 +23,6 @@ links:
     url: https://www.instagram.com/teasdaledesignstudio/
 ---
 
-{% include image.html src="brad-teasdale-1.jpg" alt="Brad Teasdale" %}
-
 When I met designer Brad Teasdale at his studio in mid-September, I asked him why he calls his signature pieces “mermaid benches.”
 
 He replied: “Half land, half water.”

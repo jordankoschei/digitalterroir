@@ -8,35 +8,51 @@
     top_image = site.url | append: "/assets/img/" | append: top_post.hero %} {%
     else %} {% assign top_image = site.url | append: "/assets/img/" | append:
     slug_title | append: "-1.jpg" %} {% endif %}
+
     <div
-      class="flex w-full h-[60vh] bg-cover bg-center flex-col items-center"
-      style="background-image: url('{{ top_image }}')"
+      class="min-h-96 flex w-full h-[60vh] bg-teal-800 bg-gradient-to-br from-teal-700 to-teal-950 relative flex-col items-center"
     >
-      <div class="w-full max-w-[90rem] p-6 h-full flex flex-col justify-end">
+      <img
+        src="{{ top_image }}"
+        alt="{{ top_post.title }}"
+        class="absolute inset-0 w-full h-full object-cover mix-blend-luminosity opacity-25 grayscale pointer-events-none"
+      />
+      <div
+        class="w-full max-w-[90rem] px-6 h-full flex flex-col justify-stretch items-stretch"
+      >
         <a
-          class="md:w-1/2 flex flex-col gap-3 items-start bg-white/30 backdrop-blur-lg p-5 text-stone-800 border border-stone-200 rounded-xl shadow-sm group"
           href="{{ top_post.url }}"
+          class="group h-full flex flex-col justify-center items-start gap-2 lg:gap-3"
         >
-          <span class="text-sm md:text-base">Featured interview</span>
-          <h2 class="text-2xl md:text-4xl italic font-serif">
+          <span class="text-teal-300 mb-3 drop-shadow-md"
+            >Featured interview</span
+          >
+          <h2
+            class="font-bold font-serif italic text-2xl lg:text-6xl text-teal-50 drop-shadow-md"
+          >
             {{ top_post.title }}
           </h2>
-          <p class="font-serif italic text-base md:text-xl">
+          <p
+            class="font-serif italic text-xl lg:text-2xl text-teal-100 mb-6 drop-shadow-md max-w-4xl"
+          >
             {{ top_post.intro }}
           </p>
           <span
-            class="text-sm md:text-base flex gap-1 items-center text-teal-700"
-            >Read more
+            class="shrink-0 flex shadow shadow-teal-800 bg-gradient-to-b from-teal-500 to-teal-700 py-4 pl-5 pr-4 rounded-lg text-white drop-shadow-md group-hover:shadow-xl transition-shadow duration-150 ease-out"
+          >
+            Read more
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              class="w-5 h-5 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke-width="2"
+              stroke="currentColor"
+              class="w-6 h-6 ml-3 group-hover:translate-x-1 transition-transform duration-150 ease-out"
             >
               <path
-                fill-rule="evenodd"
-                d="M3 10a.75.75 0 0 1 .75-.75h10.638L10.23 5.29a.75.75 0 1 1 1.04-1.08l5.5 5.25a.75.75 0 0 1 0 1.08l-5.5 5.25a.75.75 0 1 1-1.04-1.08l4.158-3.96H3.75A.75.75 0 0 1 3 10Z"
-                clip-rule="evenodd"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
               />
             </svg>
           </span>
@@ -101,7 +117,7 @@
           <a
             href="https://connecthv.com"
             target="_blank"
-            class="w-full max-w-[90rem] py-6 md:py-10 flex flex-col md:flex-row items-start md:items-center md:justify-between group"
+            class="w-full max-w-[90rem] py-8 md:py-16 flex flex-col md:flex-row items-start md:items-center md:justify-between group"
           >
             <div>
               <h2
@@ -122,7 +138,7 @@
               </p>
             </div>
             <span
-              class="mt-6 md:mt-0 shrink-0 flex shadow bg-gradient-to-b from-teal-500 to-teal-700 py-4 pl-5 pr-4 rounded-lg text-white drop-shadow-md group-hover:shadow-xl transition-shadow duration-150 ease-out"
+              class="mt-6 md:mt-0 shrink-0 flex shadow shadow-teal-800 bg-gradient-to-b from-teal-500 to-teal-700 py-4 pl-5 pr-4 rounded-lg text-white drop-shadow-md group-hover:shadow-xl transition-shadow duration-150 ease-out"
             >
               Learn more
               <svg

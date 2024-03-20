@@ -18,8 +18,6 @@ If you’ve been to a park in the Hudson Valley, there’s a good chance it’s 
 
 {% include image.html src="ned-sullivan-of-scenic-hudson-2.jpg" alt="Ned Sullivan of Scenic Hudson" %}
 
-A handful of the many Scenic Hudson parks. Clockwise: Esplanade Park, Burger Hill (Photo: Zach Johnson), Mount Beacon Park, Mawignack Preserve (Photo: Robert Rodriguez, Jr.), Walkway Loop Trail (Photo: Pierce Johnston)Less visible to the public, though, is Scenic Hudson’s decades-long advocacy for the environmental health and beautification of the Hudson River. From its start in the 60s fighting — for 17 years! — against a project that would have destroyed part of the face of Storm King Mountain, Scenic Hudson has been at the forefront of the American environmental movement.
-
 I recently spoke with Scenic Hudson president [Ned Sullivan](https://www.scenichudson.org/staff/ned-sullivan/), under whose stewardship the organization has thrived. I’ve had few conversations that have left me feeling so pumped up about the past, present, and future of our region — his view of the totality of the Hudson Valley’s history, and our place in it, is exhilarating.
 
 ## How did your relationship with the Hudson Valley begin?

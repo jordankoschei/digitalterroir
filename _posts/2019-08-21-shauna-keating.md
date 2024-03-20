@@ -13,8 +13,6 @@ links:
     url: https://www.instagram.com/shkeatin/
 ---
 
-{% include image.html src="shauna-keating-1.jpg" alt="Shauna Keating" %}
-
 In addition to her leadership in local tech and design organizations, she’s also actively involved with other community-building groups like [Hudson Valley Women in Business](https://hudsonvalleywomeninbusiness.com/) and [Kingston Stockade FC](https://www.stockadefc.com/). And that’s on top of her career as a UX designer who’s worked on numerous projects for companies in the Hudson Valley and beyond.
 
 {% include image.html src="shauna-keating-2.jpg" alt="Shauna Keating" caption="Shauna and a group of local creatives who toured Lite Brite Neon as part of the “Connect with Creatives” she organized for AIGA Upstate." %}

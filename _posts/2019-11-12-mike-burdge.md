@@ -13,8 +13,6 @@ links:
     url: https://www.storyscreenpresents.com/
 ---
 
-{% include image.html src="mike-burdge-1.jpg" alt="Mike Burdge" %}
-
 Story Screen’s physical location is an extension of the pop-up theater experience that founder Mike Burdge had been running — first in an apartment, then in stores and restaurants throughout Beacon. In addition to running the theater’s programming, Mike is also the editor-in-chief of the Story Screen website, which features articles, reviews, and a podcast.
 
 {% include image.html src="mike-burdge-2.png" alt="Mike Burdge" %}

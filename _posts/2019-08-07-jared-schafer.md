@@ -18,8 +18,6 @@ links:
     url: https://www.instagram.com/jared_w_schafer/
 ---
 
-{% include image.html src="jared-schafer-1.jpg" alt="Jared Schafer" %}
-
 He’s the Director of Motion Graphics for the Albany-based marketing agency Upside Collective, and while his clients are centered around the Capital Region, his work is informed by life in the Mid-Hudson Valley.
 
 {% include image.html src="jared-schafer-2.jpg" alt="Jared Schafer" caption="A poster for [Craftwhere](https://www.craftwhere.com/), themed around the Albany craft beer scene." %}

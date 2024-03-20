@@ -19,8 +19,6 @@ links:
     url: https://open.spotify.com/artist/3uzAP6AoXig3bDIAzCBJo9
 ---
 
-{% include image.html src="kortnee-simmons-1.jpg" alt="Kortnee Simmons" %}
-
 Born in Poughkeepsie and now living in Kingston, Kortnee Simmons has embraced life in the Hudson Valley while growing his career as a musician and actor.
 
 Despite his family’s influence in the hip-hop world — his uncle Russell founded the record label Def Jam, and his uncle Joseph is one-third of Run-D.M.C. — Kortnee’s music has its own sound, with heavy influences from soul and R&B.
