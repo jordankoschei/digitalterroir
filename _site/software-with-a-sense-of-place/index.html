@@ -7,19 +7,19 @@
     defer
   ></script>
 
-  <title>Digital Terroir</title>
+  <title>What do I mean by "software with a sense of place?</title>
   <meta
     name="description"
-    content="Exploring the intersection of software, culture, and place."
+    content="Can software feel rooted in the place where it was made?"
   />
   <meta name="author" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="utf-8" />
 
-  <meta property="og:title" content="Digital Terroir" />
+  <meta property="og:title" content="What do I mean by "software with a sense of place?" />
   <meta
     property="og:description"
-    content="Exploring the intersection of software, culture, and place."
+    content="Can software feel rooted in the place where it was made?"
   />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -39,10 +39,13 @@
     type="image/x-icon"
   />
 
-  <meta property="og:url" content="http://localhost:4000/" />
+  <meta property="og:url" content="http://localhost:4000/software-with-a-sense-of-place/" />
   <meta property="og:type" content="website" />
   
-  <meta property="og:image" content="http://localhost:4000/assets/img/og.jpg" />
+  <meta
+    property="og:image"
+    content="http://localhost:4000/assets/img/walkway.jpeg"
+  />
   
 
   <!-- MailerLite Universal -->
@@ -93,7 +96,7 @@
       <a
         href="http://localhost:4000"
         
-          class="flex space-x-1 justify-center rounded-lg text-slate-600 underline cursor-default"
+          class="flex space-x-1 justify-center rounded-lg hover:underline text-slate-600"
         
       >
         <svg
@@ -168,116 +171,132 @@
     </nav>
   </div>
 </div>
- 
 
-    <div
-      class="min-h-96 flex w-full h-[60vh] bg-slate-800 bg-gradient-to-br from-slate-700 to-slate-950 relative flex-col items-center"
-    >
-      <div
-        class="w-full max-w-[90rem] px-6 h-full flex flex-col justify-stretch items-stretch"
-      >
-        <a
-          href="/my-attempt-to-build-software-with-a-sense-of-place/"
-          class="group h-full flex flex-col justify-center items-start gap-2 lg:gap-3"
+
+    <div class="flex flex-col p-8 lg:py-12 items-center justify-center">
+      <div class="w-full lg:text-xl max-w-prose flex flex-col gap-3 mb-6">
+        <span class="text-base text-slate-600"
+          >Jordan Koschei — February 08, 2024</span
         >
-          <span class="text-slate-200 mb-3 drop-shadow-md"></span>
-            Latest — February 22, 2024
-          </span>
-          <h2
-            class="font-bold font-serif italic text-2xl lg:text-6xl text-slate-50 drop-shadow-md"
-          >
-            My attempt to build software with a sense of place
-          </h2>
-          <p
-            class="font-serif italic text-xl lg:text-2xl text-slate-100 mb-6 drop-shadow-md max-w-4xl"
-          >
-            How my Hudson Valley projects have gotten me thinking about how to imbue software with local flavor.
-          </p>
-          <span
-            class="shrink-0 flex shadow shadow-slate-800 bg-gradient-to-b from-slate-500 to-slate-700 py-4 pl-5 pr-4 rounded-lg text-white drop-shadow-md group-hover:shadow-xl transition-shadow duration-150 ease-out"
-          >
-            Read more
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke-width="2"
-              stroke="currentColor"
-              class="w-6 h-6 ml-3 group-hover:translate-x-1 transition-transform duration-150 ease-out"
+        <h1 class="font-sans text-4xl font-bold">What do I mean by "software with a sense of place?</h1>
+        <p
+          class="font-serif font-medium text-xl lg:text-2xl italic leading-relaxed lg:leading-relaxed"
+        >
+          Can software feel rooted in the place where it was made?
+        </p>
+      </div>
+
+      <figure class="mb-6">
+        
+        <img
+          src="http://localhost:4000/assets/img/walkway.jpeg"
+          alt="What do I mean by "software with a sense of place?"
+          role="presentation"
+          class="md:w-full max-w-[100vw] -mx-8 md:mx-0 md:max-w-[90rem] aspect-video object-cover md:rounded-md"
+        />
+         
+        <figcaption class="font-sans mt-2 text-stone-500">
+          The Walkway Over the Hudson, a distinctive Hudson Valley landmark. Photo by Jimmy Woo / Unsplash
+        </figcaption>
+        
+      </figure>
+
+      <article
+        class="prose prose-xl prose-stone font-serif prose-figcaption:text-sm w-full"
+      >
+        <p>There are two possible meanings to “software with a sense of place:”</p>
+
+<ol>
+  <li><strong>Software that feels like a physical location.</strong> The best example of this would be a social video game, like World of Warcraft or Final Fantasy XIV, which immerses the player into a constructed world.</li>
+  <li><strong>Software that feels rooted in the place where it was made.</strong></li>
+</ol>
+
+<p>This second meaning is the one I intended.</p>
+
+<p>In the culinary world, “terroir” is the idea that things taste like the place in which they were produced. Wine from France tastes different than wine from California; cheese made in one place doesn’t taste like cheese made in another place.</p>
+
+<p>There are cultural reasons for this, but there are physical reasons too. The nutrient composition of the soil in which grapes are grown, or the bacteria and fungi floating around in the air where cheese is produced, directly impact the flavor.</p>
+
+<p>What I’m particularly interested in exploring is whether we can invest software with this same principle. What would it mean to have an app that felt truly rooted in the place where it was made.</p>
+
+<p>There are blunt versions of this — famously, Japanese web design tends to look very different from almost anywhere else. But in general, everything on the internet tends to move towards the same aesthetic mean.</p>
+
+<p>I can think of several reasons why this might be true:</p>
+
+<ol>
+  <li>The medium itself nudges software in the same aesthetic direction. (”The medium” in this case being pixels, code, screens, the internet, or some combination of all those).</li>
+  <li>Since software itself is a recent invention, it developed in a more globalized world than many other media. Perhaps this gives it a tendency towards a more homogeneous design.</li>
+  <li>Copycat design, or even just designers being influenced by other designers, leads to convergence on a common design language.
+    <ol>
+      <li>This could also be a case of companies wanting to be similar to companies they admire or view as successful.</li>
+      <li>This is supported by the emergence of certain design trends — after Stripe becomes well-known for good design, lots companies suddenly have websites that look like Stripe’s; after Linear becomes popular, lots of companies suddenly have websites that look like Linear’s; etc.</li>
+    </ol>
+  </li>
+  <li>A disproportionate amount of software comes from the same handful of places, so a disproportionate amount of software has that same “Bay Area style.” As new software begins to emulate existing software, or new designers emulate experienced designers, this becomes the “house style” of the web.</li>
+</ol>
+
+<p>I should be clear that I don’t think a generic, homogeneous design language is necessarily a bad thing, or that ”software with a sense of place” is necessarily a good thing.</p>
+
+<p>That is, I don’t think there’s a moral requirement that software should reflect the place that it’s made. A company that makes enterprise software for Fortune 500s worldwide probably doesn’t want to look too specific to a particular region.</p>
+
+<p>However, I think that we lose something if everything we consume online is divorced from a sense of place. Our content is becoming more general — just try to find a local newspaper that’s really thriving — and the buckets in which that content is distributed is becoming more general too. (How many local newspapers are just re-skinned versions of USA Today?)</p>
+
+<p>As I develop my own side project, which is designed specifically for people in the Hudson Valley, I‘m thinking more and more about what it would mean for it to truly be a Hudson Valley website. Bits aren’t influenced by their environment of origin the way that atoms are. How can I imbue ConnectHV with a deep, authentic sense of rootedness?</p>
+
+<p>What even is “a sense of place?”</p>
+
+<p>More on that next time.</p>
+
+
+        <div class="border-t border-stone-200 mt-6 w-full">
+          <div class="flex justify-between mb-0 mt-6">
+            
+            <a
+              href="/welcome-to-digital-terroir/"
+              class="flex gap-2 no-underline font-sans font-medium text-slate-600 items-center"
             >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
-              />
-            </svg>
-          </span>
-        </a>
-      </div>
-    </div>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="2"
+                stroke="currentColor"
+                class="w-6 h-6"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18"
+                />
+              </svg>
 
-    <div class="flex flex-col items-center py-6">
-      <div
-        class="px-6 max-w-[90rem] w-full flex flex-col"
-      >
-        
-        <a
-          href="/digital-terroir-and-media-ecology/"
-          class="py-6 border-t border-slate-200 first:border-t-0 group"
-        >
-          <h3 class="font-bold text-3xl mb-2 text-slate-800 inline-flex items-center">
-            Digital terroir and media ecology
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="shrink-0 w-6 h-6 opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all duration-150 ease-out">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-            </svg>
-          </h3>
-          <p class="text-xl font-serif text-slate-700 mb-4 max-w-5xl">The field of media ecology can inform how we think about using software to reinforce a sense of place.</p>
-          <span>February 15, 2024</span>
-        </a>
-        
-        <a
-          href="/software-with-a-sense-of-place/"
-          class="py-6 border-t border-slate-200 first:border-t-0 group"
-        >
-          <h3 class="font-bold text-3xl mb-2 text-slate-800 inline-flex items-center">
-            What do I mean by "software with a sense of place?
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="shrink-0 w-6 h-6 opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all duration-150 ease-out">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-            </svg>
-          </h3>
-          <p class="text-xl font-serif text-slate-700 mb-4 max-w-5xl">Can software feel rooted in the place where it was made?</p>
-          <span>February 08, 2024</span>
-        </a>
-        
-        <a
-          href="/welcome-to-digital-terroir/"
-          class="py-6 border-t border-slate-200 first:border-t-0 group"
-        >
-          <h3 class="font-bold text-3xl mb-2 text-slate-800 inline-flex items-center">
-            Welcome to Digital Terroir
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="shrink-0 w-6 h-6 opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all duration-150 ease-out">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-            </svg>
-          </h3>
-          <p class="text-xl font-serif text-slate-700 mb-4 max-w-5xl">Is it possible to build software that respects and reinforces a “sense of place,” rather than regressing to some placeless, generic style?</p>
-          <span>February 02, 2024</span>
-        </a>
-        
-        <a
-          href="/digital-terroir-catskillsconf-2018/"
-          class="py-6 border-t border-slate-200 first:border-t-0 group"
-        >
-          <h3 class="font-bold text-3xl mb-2 text-slate-800 inline-flex items-center">
-            Digital Terroir at CatskillsConf
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="shrink-0 w-6 h-6 opacity-0 group-hover:opacity-100 group-hover:translate-x-2 transition-all duration-150 ease-out">
-              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
-            </svg>
-          </h3>
-          <p class="text-xl font-serif text-slate-700 mb-4 max-w-5xl">The original conference talk I gave about Digital Terroir introduced many of the ideas I'm still thinking about, from software & place to the dangers of monoculture.</p>
-          <span>February 02, 2024</span>
-        </a>
-        
-      </div>
+              <span>Previous</span>
+            </a>
+             
+            <a
+              href="/digital-terroir-and-media-ecology/"
+              class="flex gap-2 no-underline font-sans font-medium text-slate-600 items-center"
+            >
+              <span>Next</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="2"
+                stroke="currentColor"
+                class="w-6 h-6"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3"
+                />
+              </svg>
+            </a>
+            
+          </div>
+        </div>
+      </article>
     </div>
 
     <button

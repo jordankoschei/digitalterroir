@@ -3,17 +3,17 @@
 @tailwind utilities;
 
 @layer base {
-    html {
-      font-size: 14px;
-    }
-
-    a {
-        @apply text-teal-500;
-    }
-
-    *:focus-visible {
-      @apply focus:outline-none;
-      @apply focus:ring-4;
-      @apply focus:ring-white/20;
-    }
+  html {
+    font-size: 14px;
   }
+
+  a {
+    @apply text-slate-500;
+  }
+
+  *:focus-visible {
+    @apply focus:outline-none;
+    @apply focus:ring-4;
+    @apply focus:ring-white/20;
+  }
+}
