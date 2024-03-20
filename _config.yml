@@ -2,8 +2,8 @@ title: Digital Terroir
 description: Exploring the intersection of software, culture, and place.
 email: jordan@digitalterroir.org
 baseurl: ""
-# url: "https://digitalterroir.org"
-url: ""
+url: "https://digitalterroir.org"
+# url: ""
 
 defaults:
   - scope:
